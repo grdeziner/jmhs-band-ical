@@ -55,7 +55,14 @@ def fetch_events(start_date: str, end_date: str) -> list:
     # Also add the special -2 filter that the site uses
     param_list.append(("filter[calendars][]", "-2"))
 
-    response = requests.get(BASE_URL, params=param_list, timeout=30)
+    headers = {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+                       "(KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+        "Accept": "application/json, text/javascript, */*; q=0.01",
+        "X-Requested-With": "XMLHttpRequest",
+        "Referer": "https://jmhsband.org/index.php/calendar",
+    }
+    response = requests.get(BASE_URL, params=param_list, headers=headers, timeout=30)
     response.raise_for_status()
 
     data = response.json()
