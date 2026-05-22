@@ -27,7 +27,7 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:jmhs-band-6634@jmhsband.org
-DTSTAMP:20260522T134947Z
+DTSTAMP:20260522T145454Z
 DTSTART;TZID=America/New_York:20260422T153000
 DTEND;TZID=America/New_York:20260422T190000
 SUMMARY:Musical Dress Rehearsal 
@@ -35,33 +35,30 @@ CATEGORIES:JMHS Band Program Calendar
 DESCRIPTION:4-22-2026 3:30pm - 7:00pm [JMHS Band Program Calendar] Musical 
  Dress Rehearsal
 URL:https://jmhsband.org/index.php/calendar/musical-rehearsal-12
-COLOR:#af40e6
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6409@jmhsband.org
-DTSTAMP:20260522T134947Z
+DTSTAMP:20260522T145454Z
 DTSTART;VALUE=DATE:20260423
 DTEND;VALUE=DATE:20260426
 SUMMARY:Musical
 CATEGORIES:Performance
 DESCRIPTION:4-23-2026 - 4-25-2026 [Performance] Musical
 URL:https://jmhsband.org/index.php/calendar/musical-7
-COLOR:#b33609
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6642@jmhsband.org
-DTSTAMP:20260522T134947Z
+DTSTAMP:20260522T145454Z
 DTSTART;TZID=America/New_York:20260427T153000
 DTEND;TZID=America/New_York:20260427T170000
 SUMMARY:WInd Symphony
 CATEGORIES:Rehearsal
 DESCRIPTION:4-27-2026 3:30pm - 5:00pm [Rehearsal] WInd Symphony
 URL:https://jmhsband.org/index.php/calendar/wind-symphony-108
-COLOR:#adb8b7
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6649@jmhsband.org
-DTSTAMP:20260522T134947Z
+DTSTAMP:20260522T145454Z
 DTSTART;TZID=America/New_York:20260428T180000
 DTEND;TZID=America/New_York:20260428T200000
 SUMMARY:Marching Percussion Rehearsal
@@ -69,55 +66,50 @@ CATEGORIES:JMHS Band Program Calendar
 DESCRIPTION:4-28-2026 6:00pm - 8:00pm [JMHS Band Program Calendar] Marching
   Percussion Rehearsal
 URL:https://jmhsband.org/index.php/calendar/marching-percussion-rehearsal-4
-COLOR:#3366CC
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6636@jmhsband.org
-DTSTAMP:20260522T134947Z
+DTSTAMP:20260522T145454Z
 DTSTART;TZID=America/New_York:20260429T153000
 DTEND;TZID=America/New_York:20260429T170000
 SUMMARY:Symphonic Band
 CATEGORIES:Rehearsal
 DESCRIPTION:4-29-2026 3:30pm - 5:00pm [Rehearsal] Symphonic Band
 URL:https://jmhsband.org/index.php/calendar/symphonic-band-77
-COLOR:#adb8b7
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6635@jmhsband.org
-DTSTAMP:20260522T134947Z
+DTSTAMP:20260522T145454Z
 DTSTART;TZID=America/New_York:20260429T180000
 DTEND;TZID=America/New_York:20260429T203000
 SUMMARY:WInd Symphony
 CATEGORIES:Rehearsal
 DESCRIPTION:4-29-2026 6:00pm - 8:30pm [Rehearsal] WInd Symphony
 URL:https://jmhsband.org/index.php/calendar/wind-symphony-87
-COLOR:#adb8b7
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6638@jmhsband.org
-DTSTAMP:20260522T134947Z
+DTSTAMP:20260522T145454Z
 DTSTART;TZID=America/New_York:20260504T153000
 DTEND;TZID=America/New_York:20260504T170000
 SUMMARY:WInd Symphony
 CATEGORIES:Rehearsal
 DESCRIPTION:5-04-2026 3:30pm - 5:00pm [Rehearsal] WInd Symphony
 URL:https://jmhsband.org/index.php/calendar/wind-symphony-106
-COLOR:#adb8b7
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6681@jmhsband.org
-DTSTAMP:20260522T134947Z
+DTSTAMP:20260522T145454Z
 DTSTART;TZID=America/New_York:20260505T180000
 DTEND;TZID=America/New_York:20260505T200000
 SUMMARY:Color Guard
 CATEGORIES:Marching Ensemble 
 DESCRIPTION:5-05-2026 6:00pm - 8:00pm [Marching Ensemble ] Color Guard
 URL:https://jmhsband.org/index.php/calendar/color-guard
-COLOR:#e02dd4
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6623@jmhsband.org
-DTSTAMP:20260522T134947Z
+DTSTAMP:20260522T145454Z
 DTSTART;TZID=America/New_York:20260505T190000
 DTEND;TZID=America/New_York:20260505T200000
 SUMMARY:Percussion Ensemble Concert
@@ -125,77 +117,70 @@ CATEGORIES:Performance
 DESCRIPTION:5-05-2026 7:00pm [Performance] Percussion Ensemble Concert at M
  cLean HS
 URL:https://jmhsband.org/index.php/calendar/percussion-ensemble-concert-2
-COLOR:#b33609
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6640@jmhsband.org
-DTSTAMP:20260522T134947Z
+DTSTAMP:20260522T145454Z
 DTSTART;TZID=America/New_York:20260506T153000
 DTEND;TZID=America/New_York:20260506T170000
 SUMMARY:Symphonic Band
 CATEGORIES:Rehearsal
 DESCRIPTION:5-06-2026 3:30pm - 5:00pm [Rehearsal] Symphonic Band
 URL:https://jmhsband.org/index.php/calendar/symphonic-band-78
-COLOR:#adb8b7
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6637@jmhsband.org
-DTSTAMP:20260522T134947Z
+DTSTAMP:20260522T145454Z
 DTSTART;TZID=America/New_York:20260506T180000
 DTEND;TZID=America/New_York:20260506T203000
 SUMMARY:WInd Symphony
 CATEGORIES:Rehearsal
 DESCRIPTION:5-06-2026 6:00pm - 8:30pm [Rehearsal] WInd Symphony
 URL:https://jmhsband.org/index.php/calendar/wind-symphony-105
-COLOR:#adb8b7
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6643@jmhsband.org
-DTSTAMP:20260522T134947Z
+DTSTAMP:20260522T145454Z
 DTSTART;TZID=America/New_York:20260507T153000
 DTEND;TZID=America/New_York:20260507T170000
 SUMMARY:Symphonic Band
 CATEGORIES:Rehearsal
 DESCRIPTION:5-07-2026 3:30pm - 5:00pm [Rehearsal] Symphonic Band
 URL:https://jmhsband.org/index.php/calendar/symphonic-band-80
-COLOR:#adb8b7
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6639@jmhsband.org
-DTSTAMP:20260522T134947Z
+DTSTAMP:20260522T145454Z
 DTSTART;TZID=America/New_York:20260511T153000
 DTEND;TZID=America/New_York:20260511T170000
 SUMMARY:WInd Symphony
 CATEGORIES:Rehearsal
 DESCRIPTION:5-11-2026 3:30pm - 5:00pm [Rehearsal] WInd Symphony
 URL:https://jmhsband.org/index.php/calendar/wind-symphony-107
-COLOR:#adb8b7
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6641@jmhsband.org
-DTSTAMP:20260522T134947Z
+DTSTAMP:20260522T145454Z
 DTSTART;TZID=America/New_York:20260512T153000
 DTEND;TZID=America/New_York:20260512T170000
 SUMMARY:Symphonic Band
 CATEGORIES:Rehearsal
 DESCRIPTION:5-12-2026 3:30pm - 5:00pm [Rehearsal] Symphonic Band
 URL:https://jmhsband.org/index.php/calendar/symphonic-band-79
-COLOR:#adb8b7
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6682@jmhsband.org
-DTSTAMP:20260522T134947Z
+DTSTAMP:20260522T145454Z
 DTSTART;TZID=America/New_York:20260512T180000
 DTEND;TZID=America/New_York:20260512T200000
 SUMMARY:Color Guard
 CATEGORIES:Marching Ensemble 
 DESCRIPTION:5-12-2026 6:00pm - 8:00pm [Marching Ensemble ] Color Guard
 URL:https://jmhsband.org/index.php/calendar/color-guard-2
-COLOR:#e02dd4
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6650@jmhsband.org
-DTSTAMP:20260522T134947Z
+DTSTAMP:20260522T145454Z
 DTSTART;TZID=America/New_York:20260512T180000
 DTEND;TZID=America/New_York:20260512T200000
 SUMMARY:Marching Percussion Rehearsal
@@ -203,22 +188,20 @@ CATEGORIES:JMHS Band Program Calendar
 DESCRIPTION:5-12-2026 6:00pm - 8:00pm [JMHS Band Program Calendar] Marching
   Percussion Rehearsal
 URL:https://jmhsband.org/index.php/calendar/marching-percussion-rehearsal-5
-COLOR:#3366CC
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6403@jmhsband.org
-DTSTAMP:20260522T134947Z
+DTSTAMP:20260522T145454Z
 DTSTART;TZID=America/New_York:20260513T190000
 DTEND;TZID=America/New_York:20260513T200000
 SUMMARY:Spring Concert
 CATEGORIES:Performance
 DESCRIPTION:5-13-2026 7:00pm [Performance] Spring Concert
 URL:https://jmhsband.org/index.php/calendar/band-assessment-6
-COLOR:#b33609
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6472@jmhsband.org
-DTSTAMP:20260522T134947Z
+DTSTAMP:20260522T145454Z
 DTSTART;VALUE=DATE:20260515
 DTEND;VALUE=DATE:20260520
 SUMMARY:Spring Trip - Orlando
@@ -226,11 +209,10 @@ CATEGORIES:JMHS Band Program Calendar
 DESCRIPTION:5-15-2026 - 5-19-2026 [JMHS Band Program Calendar] Spring Trip 
  - Orlando
 URL:https://jmhsband.org/index.php/calendar/spring-trip-orlando-3
-COLOR:#37d134
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6651@jmhsband.org
-DTSTAMP:20260522T134947Z
+DTSTAMP:20260522T145454Z
 DTSTART;TZID=America/New_York:20260520T180000
 DTEND;TZID=America/New_York:20260520T200000
 SUMMARY:Marching Percussion Rehearsal
@@ -238,11 +220,10 @@ CATEGORIES:JMHS Band Program Calendar
 DESCRIPTION:5-20-2026 6:00pm - 8:00pm [JMHS Band Program Calendar] Marching
   Percussion Rehearsal
 URL:https://jmhsband.org/index.php/calendar/marching-percussion-rehearsal-6
-COLOR:#3366CC
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6654@jmhsband.org
-DTSTAMP:20260522T134947Z
+DTSTAMP:20260522T145454Z
 DTSTART;TZID=America/New_York:20260521T190000
 DTEND;TZID=America/New_York:20260521T200000
 SUMMARY:New Student/Family Orientation 
@@ -250,77 +231,70 @@ CATEGORIES:JMHS Band Program Calendar
 DESCRIPTION:5-21-2026 7:00pm - 8:00pm [JMHS Band Program Calendar] New Stud
  ent/Family Orientation
 URL:https://jmhsband.org/index.php/calendar/new-student-family-orientation
-COLOR:#3366CC
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6399@jmhsband.org
-DTSTAMP:20260522T134947Z
+DTSTAMP:20260522T145454Z
 DTSTART;VALUE=DATE:20260525
 DTEND;VALUE=DATE:20260526
 SUMMARY:Memorial Day
 CATEGORIES:Holiday/School
 DESCRIPTION:5-25-2026 [Holiday/School] Memorial Day
 URL:https://jmhsband.org/index.php/calendar/labor-day-holiday-32
-COLOR:#f2f21d
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6405@jmhsband.org
-DTSTAMP:20260522T134947Z
+DTSTAMP:20260522T145454Z
 DTSTART;VALUE=DATE:20260526
 DTEND;VALUE=DATE:20260527
 SUMMARY:Teacher Work Day
 CATEGORIES:Holiday/School
 DESCRIPTION:5-26-2026 [Holiday/School] Teacher Work Day
 URL:https://jmhsband.org/index.php/calendar/labor-day-holiday-34
-COLOR:#f2f21d
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6684@jmhsband.org
-DTSTAMP:20260522T134947Z
+DTSTAMP:20260522T145454Z
 DTSTART;TZID=America/New_York:20260526T180000
 DTEND;TZID=America/New_York:20260526T200000
 SUMMARY:Color Guard
 CATEGORIES:Marching Ensemble 
 DESCRIPTION:5-26-2026 6:00pm - 8:00pm [Marching Ensemble ] Color Guard
 URL:https://jmhsband.org/index.php/calendar/color-guard-4
-COLOR:#e02dd4
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6406@jmhsband.org
-DTSTAMP:20260522T134947Z
+DTSTAMP:20260522T145454Z
 DTSTART;VALUE=DATE:20260527
 DTEND;VALUE=DATE:20260528
 SUMMARY:Eid al-Adha Holiday
 CATEGORIES:Holiday/School
 DESCRIPTION:5-27-2026 [Holiday/School] Eid al-Adha Holiday
 URL:https://jmhsband.org/index.php/calendar/labor-day-holiday-35
-COLOR:#f2f21d
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6685@jmhsband.org
-DTSTAMP:20260522T134947Z
+DTSTAMP:20260522T145454Z
 DTSTART;TZID=America/New_York:20260602T180000
 DTEND;TZID=America/New_York:20260602T200000
 SUMMARY:Color Guard
 CATEGORIES:Marching Ensemble 
 DESCRIPTION:6-02-2026 6:00pm - 8:00pm [Marching Ensemble ] Color Guard
 URL:https://jmhsband.org/index.php/calendar/color-guard-5
-COLOR:#e02dd4
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6522@jmhsband.org
-DTSTAMP:20260522T134947Z
+DTSTAMP:20260522T145454Z
 DTSTART;TZID=America/New_York:20260602T190000
 DTEND;TZID=America/New_York:20260602T200000
 SUMMARY:Jammin' Java
 CATEGORIES:Performance
 DESCRIPTION:6-02-2026 7:00pm [Performance] Jammin' Java
 URL:https://jmhsband.org/index.php/calendar/jammin-java-3
-COLOR:#b33609
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6652@jmhsband.org
-DTSTAMP:20260522T134947Z
+DTSTAMP:20260522T145454Z
 DTSTART;TZID=America/New_York:20260603T180000
 DTEND;TZID=America/New_York:20260603T200000
 SUMMARY:Marching Percussion Rehearsal
@@ -328,11 +302,10 @@ CATEGORIES:JMHS Band Program Calendar
 DESCRIPTION:6-03-2026 6:00pm - 8:00pm [JMHS Band Program Calendar] Marching
   Percussion Rehearsal
 URL:https://jmhsband.org/index.php/calendar/marching-percussion-rehearsal-7
-COLOR:#3366CC
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6474@jmhsband.org
-DTSTAMP:20260522T134947Z
+DTSTAMP:20260522T145454Z
 DTSTART;TZID=America/New_York:20260604T180000
 DTEND;TZID=America/New_York:20260604T210000
 SUMMARY:Band Banquet 
@@ -340,33 +313,30 @@ CATEGORIES:JMHS Band Program Calendar
 DESCRIPTION:6-04-2026 6:00pm - 9:00pm [JMHS Band Program Calendar] Band Ban
  quet
 URL:https://jmhsband.org/index.php/calendar/band-banquet-7
-COLOR:#3366CC
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6473@jmhsband.org
-DTSTAMP:20260522T134947Z
+DTSTAMP:20260522T145454Z
 DTSTART;VALUE=DATE:20260609
 DTEND;VALUE=DATE:20260610
 SUMMARY:Graduation
 CATEGORIES:Holiday/School
 DESCRIPTION:6-09-2026 [Holiday/School] Graduation
 URL:https://jmhsband.org/index.php/calendar/graduation-8
-COLOR:#f2f21d
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6686@jmhsband.org
-DTSTAMP:20260522T134947Z
+DTSTAMP:20260522T145454Z
 DTSTART;TZID=America/New_York:20260609T180000
 DTEND;TZID=America/New_York:20260609T200000
 SUMMARY:Color Guard
 CATEGORIES:Marching Ensemble 
 DESCRIPTION:6-09-2026 6:00pm - 8:00pm [Marching Ensemble ] Color Guard
 URL:https://jmhsband.org/index.php/calendar/color-guard-6
-COLOR:#e02dd4
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6653@jmhsband.org
-DTSTAMP:20260522T134947Z
+DTSTAMP:20260522T145454Z
 DTSTART;TZID=America/New_York:20260609T180000
 DTEND;TZID=America/New_York:20260609T200000
 SUMMARY:Marching Percussion Rehearsal
@@ -374,77 +344,70 @@ CATEGORIES:JMHS Band Program Calendar
 DESCRIPTION:6-09-2026 6:00pm - 8:00pm [JMHS Band Program Calendar] Marching
   Percussion Rehearsal
 URL:https://jmhsband.org/index.php/calendar/marching-percussion-rehearsal-8
-COLOR:#3366CC
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6687@jmhsband.org
-DTSTAMP:20260522T134947Z
+DTSTAMP:20260522T145454Z
 DTSTART;TZID=America/New_York:20260616T180000
 DTEND;TZID=America/New_York:20260616T200000
 SUMMARY:Color Guard
 CATEGORIES:Marching Ensemble 
 DESCRIPTION:6-16-2026 6:00pm - 8:00pm [Marching Ensemble ] Color Guard
 URL:https://jmhsband.org/index.php/calendar/color-guard-7
-COLOR:#e02dd4
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6407@jmhsband.org
-DTSTAMP:20260522T134947Z
+DTSTAMP:20260522T145454Z
 DTSTART;VALUE=DATE:20260617
 DTEND;VALUE=DATE:20260618
 SUMMARY:Last Day of School
 CATEGORIES:Holiday/School
 DESCRIPTION:6-17-2026 [Holiday/School] Last Day of School
 URL:https://jmhsband.org/index.php/calendar/last-day-of-school-9
-COLOR:#f2f21d
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6655@jmhsband.org
-DTSTAMP:20260522T134947Z
+DTSTAMP:20260522T145454Z
 DTSTART;VALUE=DATE:20260803
 DTEND;VALUE=DATE:20260808
 SUMMARY:Band Camp - Week 1
 CATEGORIES:Marching Ensemble 
 DESCRIPTION:8-03-2026 - 8-07-2026 [Marching Ensemble ] Band Camp - Week 1
 URL:https://jmhsband.org/index.php/calendar/band-camp-week-10
-COLOR:#858d9c
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6656@jmhsband.org
-DTSTAMP:20260522T134947Z
+DTSTAMP:20260522T145454Z
 DTSTART;VALUE=DATE:20260810
 DTEND;VALUE=DATE:20260815
 SUMMARY:Band Camp - Week 2
 CATEGORIES:Marching Ensemble 
 DESCRIPTION:8-10-2026 - 8-14-2026 [Marching Ensemble ] Band Camp - Week 2
 URL:https://jmhsband.org/index.php/calendar/band-camp-week-11
-COLOR:#858d9c
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6657@jmhsband.org
-DTSTAMP:20260522T134947Z
+DTSTAMP:20260522T145454Z
 DTSTART;VALUE=DATE:20260817
 DTEND;VALUE=DATE:20260822
 SUMMARY:Band Camp - Week 3
 CATEGORIES:Marching Ensemble 
 DESCRIPTION:8-17-2026 - 8-21-2026 [Marching Ensemble ] Band Camp - Week 3
 URL:https://jmhsband.org/index.php/calendar/band-camp-week-12
-COLOR:#858d9c
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6658@jmhsband.org
-DTSTAMP:20260522T134947Z
+DTSTAMP:20260522T145454Z
 DTSTART;VALUE=DATE:20260824
 DTEND;VALUE=DATE:20260825
 SUMMARY:First Day of School 
 CATEGORIES:Holiday/School
 DESCRIPTION:8-24-2026 [Holiday/School] First Day of School
 URL:https://jmhsband.org/index.php/calendar/first-day-of-school-5
-COLOR:#f2f21d
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6689@jmhsband.org
-DTSTAMP:20260522T134947Z
+DTSTAMP:20260522T145454Z
 DTSTART;TZID=America/New_York:20260826T173000
 DTEND;TZID=America/New_York:20260826T210000
 SUMMARY:Marching Ensemble
@@ -452,11 +415,10 @@ CATEGORIES:Marching Ensemble
 DESCRIPTION:8-26-2026 5:30pm - 9:00pm [Marching Ensemble ] Marching Ensembl
  e
 URL:https://jmhsband.org/index.php/calendar/marching-ensemble-84
-COLOR:#858d9c
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6710@jmhsband.org
-DTSTAMP:20260522T134947Z
+DTSTAMP:20260522T145454Z
 DTSTART;TZID=America/New_York:20260827T153000
 DTEND;TZID=America/New_York:20260827T180000
 SUMMARY:Marching Ensemble 
@@ -464,11 +426,10 @@ CATEGORIES:Marching Ensemble
 DESCRIPTION:8-27-2026 3:30pm - 6:00pm [Marching Ensemble ] Marching Ensembl
  e
 URL:https://jmhsband.org/index.php/calendar/marching-ensemble-97
-COLOR:#858d9c
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6700@jmhsband.org
-DTSTAMP:20260522T134947Z
+DTSTAMP:20260522T145454Z
 DTSTART;TZID=America/New_York:20260831T153000
 DTEND;TZID=America/New_York:20260831T180000
 SUMMARY:Marching Ensemble 
@@ -476,11 +437,10 @@ CATEGORIES:Marching Ensemble
 DESCRIPTION:8-31-2026 3:30pm - 6:00pm [Marching Ensemble ] Marching Ensembl
  e
 URL:https://jmhsband.org/index.php/calendar/marching-ensemble-93
-COLOR:#858d9c
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6690@jmhsband.org
-DTSTAMP:20260522T134947Z
+DTSTAMP:20260522T145454Z
 DTSTART;TZID=America/New_York:20260902T173000
 DTEND;TZID=America/New_York:20260902T210000
 SUMMARY:Marching Ensemble
@@ -488,22 +448,20 @@ CATEGORIES:Marching Ensemble
 DESCRIPTION:9-02-2026 5:30pm - 9:00pm [Marching Ensemble ] Marching Ensembl
  e
 URL:https://jmhsband.org/index.php/calendar/marching-ensemble-85
-COLOR:#858d9c
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6660@jmhsband.org
-DTSTAMP:20260522T134947Z
+DTSTAMP:20260522T145454Z
 DTSTART;VALUE=DATE:20260903
 DTEND;VALUE=DATE:20260904
 SUMMARY:Home Football - Centerville
 CATEGORIES:Marching Ensemble 
 DESCRIPTION:9-03-2026 [Marching Ensemble ] Home Football - Centerville
 URL:https://jmhsband.org/index.php/calendar/home-football-centerville
-COLOR:#b33609
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6711@jmhsband.org
-DTSTAMP:20260522T134947Z
+DTSTAMP:20260522T145454Z
 DTSTART;TZID=America/New_York:20260903T153000
 DTEND;TZID=America/New_York:20260903T170000
 SUMMARY:Marching Ensemble 
@@ -511,22 +469,20 @@ CATEGORIES:Marching Ensemble
 DESCRIPTION:9-03-2026 3:30pm - 5:00pm [Marching Ensemble ] Marching Ensembl
  e
 URL:https://jmhsband.org/index.php/calendar/marching-ensemble-104
-COLOR:#858d9c
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6659@jmhsband.org
-DTSTAMP:20260522T134947Z
+DTSTAMP:20260522T145454Z
 DTSTART;VALUE=DATE:20260904
 DTEND;VALUE=DATE:20260908
 SUMMARY:Labor Day Holiday
 CATEGORIES:Holiday/School
 DESCRIPTION:9-04-2026 - 9-07-2026 [Holiday/School] Labor Day Holiday
 URL:https://jmhsband.org/index.php/calendar/labor-day-holiday-36
-COLOR:#f2f21d
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6701@jmhsband.org
-DTSTAMP:20260522T134947Z
+DTSTAMP:20260522T145454Z
 DTSTART;TZID=America/New_York:20260907T153000
 DTEND;TZID=America/New_York:20260907T180000
 SUMMARY:Marching Ensemble 
@@ -534,11 +490,10 @@ CATEGORIES:Marching Ensemble
 DESCRIPTION:9-07-2026 3:30pm - 6:00pm [Marching Ensemble ] Marching Ensembl
  e
 URL:https://jmhsband.org/index.php/calendar/marching-ensemble-95
-COLOR:#858d9c
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6691@jmhsband.org
-DTSTAMP:20260522T134947Z
+DTSTAMP:20260522T145454Z
 DTSTART;TZID=America/New_York:20260909T173000
 DTEND;TZID=America/New_York:20260909T210000
 SUMMARY:Marching Ensemble
@@ -546,11 +501,10 @@ CATEGORIES:Marching Ensemble
 DESCRIPTION:9-09-2026 5:30pm - 9:00pm [Marching Ensemble ] Marching Ensembl
  e
 URL:https://jmhsband.org/index.php/calendar/marching-ensemble-86
-COLOR:#858d9c
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6712@jmhsband.org
-DTSTAMP:20260522T134947Z
+DTSTAMP:20260522T145454Z
 DTSTART;TZID=America/New_York:20260910T153000
 DTEND;TZID=America/New_York:20260910T180000
 SUMMARY:Marching Ensemble 
@@ -558,11 +512,10 @@ CATEGORIES:Marching Ensemble
 DESCRIPTION:9-10-2026 3:30pm - 6:00pm [Marching Ensemble ] Marching Ensembl
  e
 URL:https://jmhsband.org/index.php/calendar/marching-ensemble-105
-COLOR:#858d9c
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6702@jmhsband.org
-DTSTAMP:20260522T134947Z
+DTSTAMP:20260522T145454Z
 DTSTART;TZID=America/New_York:20260914T153000
 DTEND;TZID=America/New_York:20260914T180000
 SUMMARY:Marching Ensemble 
@@ -570,11 +523,10 @@ CATEGORIES:Marching Ensemble
 DESCRIPTION:9-14-2026 3:30pm - 6:00pm [Marching Ensemble ] Marching Ensembl
  e
 URL:https://jmhsband.org/index.php/calendar/marching-ensemble-96
-COLOR:#858d9c
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6692@jmhsband.org
-DTSTAMP:20260522T134947Z
+DTSTAMP:20260522T145454Z
 DTSTART;TZID=America/New_York:20260916T173000
 DTEND;TZID=America/New_York:20260916T210000
 SUMMARY:Marching Ensemble
@@ -582,11 +534,10 @@ CATEGORIES:Marching Ensemble
 DESCRIPTION:9-16-2026 5:30pm - 9:00pm [Marching Ensemble ] Marching Ensembl
  e
 URL:https://jmhsband.org/index.php/calendar/marching-ensemble-87
-COLOR:#858d9c
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6713@jmhsband.org
-DTSTAMP:20260522T134947Z
+DTSTAMP:20260522T145454Z
 DTSTART;TZID=America/New_York:20260917T153000
 DTEND;TZID=America/New_York:20260917T180000
 SUMMARY:Marching Ensemble 
@@ -594,44 +545,40 @@ CATEGORIES:Marching Ensemble
 DESCRIPTION:9-17-2026 3:30pm - 6:00pm [Marching Ensemble ] Marching Ensembl
  e
 URL:https://jmhsband.org/index.php/calendar/marching-ensemble-106
-COLOR:#858d9c
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6661@jmhsband.org
-DTSTAMP:20260522T134947Z
+DTSTAMP:20260522T145454Z
 DTSTART;VALUE=DATE:20260918
 DTEND;VALUE=DATE:20260919
 SUMMARY:Home Football - Hayfield
 CATEGORIES:Marching Ensemble 
 DESCRIPTION:9-18-2026 [Marching Ensemble ] Home Football - Hayfield
 URL:https://jmhsband.org/index.php/calendar/home-football-hayfield
-COLOR:#b33609
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6675@jmhsband.org
-DTSTAMP:20260522T134947Z
+DTSTAMP:20260522T145454Z
 DTSTART;VALUE=DATE:20260919
 DTEND;VALUE=DATE:20260920
 SUMMARY:Tag Day
 CATEGORIES:JMHS Band Program Calendar
 DESCRIPTION:9-19-2026 [JMHS Band Program Calendar] Tag Day
 URL:https://jmhsband.org/index.php/calendar/tag-day-9
-COLOR:#3366CC
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6666@jmhsband.org
-DTSTAMP:20260522T134947Z
+DTSTAMP:20260522T145454Z
 DTSTART;VALUE=DATE:20260921
 DTEND;VALUE=DATE:20260922
 SUMMARY:Yom Kippur
 CATEGORIES:Holiday/School
 DESCRIPTION:9-21-2026 [Holiday/School] Yom Kippur
 URL:https://jmhsband.org/index.php/calendar/yom-kippur
-COLOR:#f2f21d
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6693@jmhsband.org
-DTSTAMP:20260522T134947Z
+DTSTAMP:20260522T145454Z
 DTSTART;TZID=America/New_York:20260923T173000
 DTEND;TZID=America/New_York:20260923T210000
 SUMMARY:Marching Ensemble
@@ -639,11 +586,10 @@ CATEGORIES:Marching Ensemble
 DESCRIPTION:9-23-2026 5:30pm - 9:00pm [Marching Ensemble ] Marching Ensembl
  e
 URL:https://jmhsband.org/index.php/calendar/marching-ensemble-88
-COLOR:#858d9c
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6714@jmhsband.org
-DTSTAMP:20260522T134947Z
+DTSTAMP:20260522T145454Z
 DTSTART;TZID=America/New_York:20260924T153000
 DTEND;TZID=America/New_York:20260924T180000
 SUMMARY:Marching Ensemble 
@@ -651,11 +597,10 @@ CATEGORIES:Marching Ensemble
 DESCRIPTION:9-24-2026 3:30pm - 6:00pm [Marching Ensemble ] Marching Ensembl
  e
 URL:https://jmhsband.org/index.php/calendar/marching-ensemble-107
-COLOR:#858d9c
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6677@jmhsband.org
-DTSTAMP:20260522T134947Z
+DTSTAMP:20260522T145454Z
 DTSTART;VALUE=DATE:20260925
 DTEND;VALUE=DATE:20260928
 SUMMARY:BOA Regional - Columbus\, Ohio
@@ -663,11 +608,10 @@ CATEGORIES:Marching Ensemble
 DESCRIPTION:9-25-2026 - 9-27-2026 [Marching Ensemble ] BOA Regional - Colum
  bus\, Ohio
 URL:https://jmhsband.org/index.php/calendar/marching-competition-9
-COLOR:#b33609
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6704@jmhsband.org
-DTSTAMP:20260522T134947Z
+DTSTAMP:20260522T145454Z
 DTSTART;TZID=America/New_York:20260928T153000
 DTEND;TZID=America/New_York:20260928T180000
 SUMMARY:Marching Ensemble 
@@ -675,11 +619,10 @@ CATEGORIES:Marching Ensemble
 DESCRIPTION:9-28-2026 3:30pm - 6:00pm [Marching Ensemble ] Marching Ensembl
  e
 URL:https://jmhsband.org/index.php/calendar/marching-ensemble-98
-COLOR:#858d9c
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6694@jmhsband.org
-DTSTAMP:20260522T134947Z
+DTSTAMP:20260522T145454Z
 DTSTART;TZID=America/New_York:20260930T173000
 DTEND;TZID=America/New_York:20260930T210000
 SUMMARY:Marching Ensemble
@@ -687,11 +630,10 @@ CATEGORIES:Marching Ensemble
 DESCRIPTION:9-30-2026 5:30pm - 9:00pm [Marching Ensemble ] Marching Ensembl
  e
 URL:https://jmhsband.org/index.php/calendar/marching-ensemble-89
-COLOR:#858d9c
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6715@jmhsband.org
-DTSTAMP:20260522T134947Z
+DTSTAMP:20260522T145454Z
 DTSTART;TZID=America/New_York:20261001T153000
 DTEND;TZID=America/New_York:20261001T180000
 SUMMARY:Marching Ensemble 
@@ -699,22 +641,20 @@ CATEGORIES:Marching Ensemble
 DESCRIPTION:10-01-2026 3:30pm - 6:00pm [Marching Ensemble ] Marching Ensemb
  le
 URL:https://jmhsband.org/index.php/calendar/marching-ensemble-108
-COLOR:#858d9c
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6678@jmhsband.org
-DTSTAMP:20260522T134947Z
+DTSTAMP:20260522T145454Z
 DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20261004
 SUMMARY:Marching Competition
 CATEGORIES:Marching Ensemble 
 DESCRIPTION:10-03-2026 [Marching Ensemble ] Marching Competition
 URL:https://jmhsband.org/index.php/calendar/marching-competition-10
-COLOR:#b33609
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6705@jmhsband.org
-DTSTAMP:20260522T134947Z
+DTSTAMP:20260522T145454Z
 DTSTART;TZID=America/New_York:20261005T153000
 DTEND;TZID=America/New_York:20261005T180000
 SUMMARY:Marching Ensemble 
@@ -722,11 +662,10 @@ CATEGORIES:Marching Ensemble
 DESCRIPTION:10-05-2026 3:30pm - 6:00pm [Marching Ensemble ] Marching Ensemb
  le
 URL:https://jmhsband.org/index.php/calendar/marching-ensemble-99
-COLOR:#858d9c
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6695@jmhsband.org
-DTSTAMP:20260522T134947Z
+DTSTAMP:20260522T145454Z
 DTSTART;TZID=America/New_York:20261007T173000
 DTEND;TZID=America/New_York:20261007T210000
 SUMMARY:Marching Ensemble
@@ -734,11 +673,10 @@ CATEGORIES:Marching Ensemble
 DESCRIPTION:10-07-2026 5:30pm - 9:00pm [Marching Ensemble ] Marching Ensemb
  le
 URL:https://jmhsband.org/index.php/calendar/marching-ensemble-90
-COLOR:#858d9c
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6716@jmhsband.org
-DTSTAMP:20260522T134947Z
+DTSTAMP:20260522T145454Z
 DTSTART;TZID=America/New_York:20261008T153000
 DTEND;TZID=America/New_York:20261008T180000
 SUMMARY:Marching Ensemble 
@@ -746,33 +684,30 @@ CATEGORIES:Marching Ensemble
 DESCRIPTION:10-08-2026 3:30pm - 6:00pm [Marching Ensemble ] Marching Ensemb
  le
 URL:https://jmhsband.org/index.php/calendar/marching-ensemble-109
-COLOR:#858d9c
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6662@jmhsband.org
-DTSTAMP:20260522T134947Z
+DTSTAMP:20260522T145454Z
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261010
 SUMMARY:Homecoming Football - Westfield 
 CATEGORIES:Marching Ensemble 
 DESCRIPTION:10-09-2026 [Marching Ensemble ] Homecoming Football - Westfield
 URL:https://jmhsband.org/index.php/calendar/homecoming-football-westfield
-COLOR:#b33609
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6667@jmhsband.org
-DTSTAMP:20260522T134947Z
+DTSTAMP:20260522T145454Z
 DTSTART;VALUE=DATE:20261012
 DTEND;VALUE=DATE:20261013
 SUMMARY:Teacher Work Day
 CATEGORIES:Holiday/School
 DESCRIPTION:10-12-2026 [Holiday/School] Teacher Work Day
 URL:https://jmhsband.org/index.php/calendar/teacher-work-day-22
-COLOR:#f2f21d
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6706@jmhsband.org
-DTSTAMP:20260522T134947Z
+DTSTAMP:20260522T145454Z
 DTSTART;TZID=America/New_York:20261012T153000
 DTEND;TZID=America/New_York:20261012T180000
 SUMMARY:Marching Ensemble 
@@ -780,11 +715,10 @@ CATEGORIES:Marching Ensemble
 DESCRIPTION:10-12-2026 3:30pm - 6:00pm [Marching Ensemble ] Marching Ensemb
  le
 URL:https://jmhsband.org/index.php/calendar/marching-ensemble-100
-COLOR:#858d9c
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6696@jmhsband.org
-DTSTAMP:20260522T134947Z
+DTSTAMP:20260522T145454Z
 DTSTART;TZID=America/New_York:20261014T173000
 DTEND;TZID=America/New_York:20261014T210000
 SUMMARY:Marching Ensemble
@@ -792,11 +726,10 @@ CATEGORIES:Marching Ensemble
 DESCRIPTION:10-14-2026 5:30pm - 9:00pm [Marching Ensemble ] Marching Ensemb
  le
 URL:https://jmhsband.org/index.php/calendar/marching-ensemble-91
-COLOR:#858d9c
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6717@jmhsband.org
-DTSTAMP:20260522T134947Z
+DTSTAMP:20260522T145454Z
 DTSTART;TZID=America/New_York:20261015T153000
 DTEND;TZID=America/New_York:20261015T180000
 SUMMARY:Marching Ensemble 
@@ -804,11 +737,10 @@ CATEGORIES:Marching Ensemble
 DESCRIPTION:10-15-2026 3:30pm - 6:00pm [Marching Ensemble ] Marching Ensemb
  le
 URL:https://jmhsband.org/index.php/calendar/marching-ensemble-110
-COLOR:#858d9c
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6663@jmhsband.org
-DTSTAMP:20260522T134947Z
+DTSTAMP:20260522T145454Z
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261017
 SUMMARY:Home Football - Centreville
@@ -816,11 +748,10 @@ CATEGORIES:Marching Ensemble
 DESCRIPTION:10-16-2026 [Marching Ensemble ] Home Football - Centreville
 URL:https://jmhsband.org/index.php/calendar/home-football-centreville-senio
  r-night
-COLOR:#b33609
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6665@jmhsband.org
-DTSTAMP:20260522T134947Z
+DTSTAMP:20260522T145454Z
 DTSTART;VALUE=DATE:20261017
 DTEND;VALUE=DATE:20261018
 SUMMARY:Marching Competition
@@ -828,11 +759,10 @@ CATEGORIES:Marching Ensemble
 DESCRIPTION:10-17-2026 [Marching Ensemble ] Marching Competition
 URL:https://jmhsband.org/index.php/calendar/boa-mid-atlantic-regional-unive
  rsity-of-delaware
-COLOR:#b33609
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6707@jmhsband.org
-DTSTAMP:20260522T134947Z
+DTSTAMP:20260522T145454Z
 DTSTART;TZID=America/New_York:20261019T153000
 DTEND;TZID=America/New_York:20261019T180000
 SUMMARY:Marching Ensemble 
@@ -840,11 +770,10 @@ CATEGORIES:Marching Ensemble
 DESCRIPTION:10-19-2026 3:30pm - 6:00pm [Marching Ensemble ] Marching Ensemb
  le
 URL:https://jmhsband.org/index.php/calendar/marching-ensemble-101
-COLOR:#858d9c
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6697@jmhsband.org
-DTSTAMP:20260522T134947Z
+DTSTAMP:20260522T145454Z
 DTSTART;TZID=America/New_York:20261021T173000
 DTEND;TZID=America/New_York:20261021T210000
 SUMMARY:Marching Ensemble
@@ -852,11 +781,10 @@ CATEGORIES:Marching Ensemble
 DESCRIPTION:10-21-2026 5:30pm - 9:00pm [Marching Ensemble ] Marching Ensemb
  le
 URL:https://jmhsband.org/index.php/calendar/marching-ensemble-92
-COLOR:#858d9c
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6718@jmhsband.org
-DTSTAMP:20260522T134947Z
+DTSTAMP:20260522T145454Z
 DTSTART;TZID=America/New_York:20261022T153000
 DTEND;TZID=America/New_York:20261022T180000
 SUMMARY:Marching Ensemble 
@@ -864,22 +792,20 @@ CATEGORIES:Marching Ensemble
 DESCRIPTION:10-22-2026 3:30pm - 6:00pm [Marching Ensemble ] Marching Ensemb
  le
 URL:https://jmhsband.org/index.php/calendar/marching-ensemble-111
-COLOR:#858d9c
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6679@jmhsband.org
-DTSTAMP:20260522T134947Z
+DTSTAMP:20260522T145454Z
 DTSTART;VALUE=DATE:20261024
 DTEND;VALUE=DATE:20261025
 SUMMARY:Marching Competition
 CATEGORIES:Marching Ensemble 
 DESCRIPTION:10-24-2026 [Marching Ensemble ] Marching Competition
 URL:https://jmhsband.org/index.php/calendar/marching-competition-11
-COLOR:#b33609
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6708@jmhsband.org
-DTSTAMP:20260522T134947Z
+DTSTAMP:20260522T145454Z
 DTSTART;TZID=America/New_York:20261026T153000
 DTEND;TZID=America/New_York:20261026T180000
 SUMMARY:Marching Ensemble 
@@ -887,22 +813,20 @@ CATEGORIES:Marching Ensemble
 DESCRIPTION:10-26-2026 3:30pm - 6:00pm [Marching Ensemble ] Marching Ensemb
  le
 URL:https://jmhsband.org/index.php/calendar/marching-ensemble-102
-COLOR:#858d9c
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6688@jmhsband.org
-DTSTAMP:20260522T134947Z
+DTSTAMP:20260522T145454Z
 DTSTART;TZID=America/New_York:20261028T190000
 DTEND;TZID=America/New_York:20261028T200000
 SUMMARY:Halloween Parade
 CATEGORIES:Marching Ensemble 
 DESCRIPTION:10-28-2026 7:00pm [Marching Ensemble ] Halloween Parade
 URL:https://jmhsband.org/index.php/calendar/halloween-parade-15
-COLOR:#eb9926
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6719@jmhsband.org
-DTSTAMP:20260522T134947Z
+DTSTAMP:20260522T145454Z
 DTSTART;TZID=America/New_York:20261029T153000
 DTEND;TZID=America/New_York:20261029T180000
 SUMMARY:Marching Ensemble 
@@ -910,22 +834,20 @@ CATEGORIES:Marching Ensemble
 DESCRIPTION:10-29-2026 3:30pm - 6:00pm [Marching Ensemble ] Marching Ensemb
  le
 URL:https://jmhsband.org/index.php/calendar/marching-ensemble-112
-COLOR:#858d9c
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6668@jmhsband.org
-DTSTAMP:20260522T134947Z
+DTSTAMP:20260522T145454Z
 DTSTART;VALUE=DATE:20261102
 DTEND;VALUE=DATE:20261103
 SUMMARY:Teacher Work Day
 CATEGORIES:Holiday/School
 DESCRIPTION:11-02-2026 [Holiday/School] Teacher Work Day
 URL:https://jmhsband.org/index.php/calendar/teacher-work-day-23
-COLOR:#f2f21d
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6709@jmhsband.org
-DTSTAMP:20260522T134947Z
+DTSTAMP:20260522T145454Z
 DTSTART;TZID=America/New_York:20261102T153000
 DTEND;TZID=America/New_York:20261102T180000
 SUMMARY:Marching Ensemble 
@@ -933,22 +855,20 @@ CATEGORIES:Marching Ensemble
 DESCRIPTION:11-02-2026 3:30pm - 6:00pm [Marching Ensemble ] Marching Ensemb
  le
 URL:https://jmhsband.org/index.php/calendar/marching-ensemble-103
-COLOR:#858d9c
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6669@jmhsband.org
-DTSTAMP:20260522T134947Z
+DTSTAMP:20260522T145454Z
 DTSTART;VALUE=DATE:20261103
 DTEND;VALUE=DATE:20261104
 SUMMARY:Teacher Work Day
 CATEGORIES:Holiday/School
 DESCRIPTION:11-03-2026 [Holiday/School] Teacher Work Day
 URL:https://jmhsband.org/index.php/calendar/teacher-work-day-24
-COLOR:#f2f21d
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6699@jmhsband.org
-DTSTAMP:20260522T134947Z
+DTSTAMP:20260522T145454Z
 DTSTART;TZID=America/New_York:20261104T173000
 DTEND;TZID=America/New_York:20261104T210000
 SUMMARY:Marching Ensemble
@@ -956,11 +876,10 @@ CATEGORIES:Marching Ensemble
 DESCRIPTION:11-04-2026 5:30pm - 9:00pm [Marching Ensemble ] Marching Ensemb
  le
 URL:https://jmhsband.org/index.php/calendar/marching-ensemble-94
-COLOR:#858d9c
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6720@jmhsband.org
-DTSTAMP:20260522T134947Z
+DTSTAMP:20260522T145454Z
 DTSTART;TZID=America/New_York:20261105T153000
 DTEND;TZID=America/New_York:20261105T180000
 SUMMARY:Marching Ensemble 
@@ -968,39 +887,35 @@ CATEGORIES:Marching Ensemble
 DESCRIPTION:11-05-2026 3:30pm - 6:00pm [Marching Ensemble ] Marching Ensemb
  le
 URL:https://jmhsband.org/index.php/calendar/marching-ensemble-113
-COLOR:#858d9c
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6664@jmhsband.org
-DTSTAMP:20260522T134947Z
+DTSTAMP:20260522T145454Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
 SUMMARY:Home Football - Chantilly
 CATEGORIES:Marching Ensemble 
 DESCRIPTION:11-06-2026 [Marching Ensemble ] Home Football - Chantilly
 URL:https://jmhsband.org/index.php/calendar/home-football-chantilly-4
-COLOR:#b33609
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6680@jmhsband.org
-DTSTAMP:20260522T134947Z
+DTSTAMP:20260522T145454Z
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261108
 SUMMARY:VMBC State Championship
 CATEGORIES:Marching Ensemble 
 DESCRIPTION:11-07-2026 [Marching Ensemble ] VMBC State Championship
 URL:https://jmhsband.org/index.php/calendar/vmbc-state-championship-3
-COLOR:#b33609
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6670@jmhsband.org
-DTSTAMP:20260522T134947Z
+DTSTAMP:20260522T145454Z
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261112
 SUMMARY:Veteren's Day
 CATEGORIES:Holiday/School
 DESCRIPTION:11-11-2026 [Holiday/School] Veteren's Day
 URL:https://jmhsband.org/index.php/calendar/veterens-day
-COLOR:#f2f21d
 END:VEVENT
 END:VCALENDAR
