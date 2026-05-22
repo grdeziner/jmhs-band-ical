@@ -229,10 +229,8 @@ def event_to_vevent(event: dict) -> str:
             url = f"https://jmhsband.org{url}"
         lines.append(f"URL:{url}")
 
-    # Color hint (non-standard but supported by some clients)
-    color = event.get("backgroundColor", "")
-    if color:
-        lines.append(f"COLOR:{color}")
+    # Omit per-event COLOR so all events use the calendar's default color.
+    # This lets the subscriber control the color in their calendar app.
 
     lines.append("END:VEVENT")
     return "\r\n".join(fold_line(line) for line in lines)
