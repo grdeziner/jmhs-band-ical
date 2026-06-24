@@ -26,18 +26,8 @@ TZNAME:EDT
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:jmhs-band-6399@jmhsband.org
-DTSTAMP:20260623T120048Z
-DTSTART;VALUE=DATE:20260525
-DTEND;VALUE=DATE:20260526
-SUMMARY:Memorial Day
-CATEGORIES:Holiday/School
-DESCRIPTION:5-25-2026 [Holiday/School] Memorial Day
-URL:https://jmhsband.org/index.php/calendar/labor-day-holiday-32
-END:VEVENT
-BEGIN:VEVENT
 UID:jmhs-band-6405@jmhsband.org
-DTSTAMP:20260623T120048Z
+DTSTAMP:20260624T115443Z
 DTSTART;VALUE=DATE:20260526
 DTEND;VALUE=DATE:20260527
 SUMMARY:Teacher Work Day
@@ -47,7 +37,7 @@ URL:https://jmhsband.org/index.php/calendar/labor-day-holiday-34
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6684@jmhsband.org
-DTSTAMP:20260623T120048Z
+DTSTAMP:20260624T115443Z
 DTSTART;TZID=America/New_York:20260526T180000
 DTEND;TZID=America/New_York:20260526T200000
 SUMMARY:Color Guard
@@ -57,7 +47,7 @@ URL:https://jmhsband.org/index.php/calendar/color-guard-4
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6406@jmhsband.org
-DTSTAMP:20260623T120048Z
+DTSTAMP:20260624T115443Z
 DTSTART;VALUE=DATE:20260527
 DTEND;VALUE=DATE:20260528
 SUMMARY:Eid al-Adha Holiday
@@ -67,7 +57,7 @@ URL:https://jmhsband.org/index.php/calendar/labor-day-holiday-35
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6685@jmhsband.org
-DTSTAMP:20260623T120048Z
+DTSTAMP:20260624T115443Z
 DTSTART;TZID=America/New_York:20260602T180000
 DTEND;TZID=America/New_York:20260602T200000
 SUMMARY:Color Guard
@@ -77,7 +67,7 @@ URL:https://jmhsband.org/index.php/calendar/color-guard-5
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6522@jmhsband.org
-DTSTAMP:20260623T120048Z
+DTSTAMP:20260624T115443Z
 DTSTART;TZID=America/New_York:20260602T190000
 DTEND;TZID=America/New_York:20260602T200000
 SUMMARY:Jammin' Java
@@ -87,7 +77,7 @@ URL:https://jmhsband.org/index.php/calendar/jammin-java-3
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6652@jmhsband.org
-DTSTAMP:20260623T120048Z
+DTSTAMP:20260624T115443Z
 DTSTART;TZID=America/New_York:20260603T180000
 DTEND;TZID=America/New_York:20260603T200000
 SUMMARY:Marching Percussion Rehearsal
@@ -98,7 +88,7 @@ URL:https://jmhsband.org/index.php/calendar/marching-percussion-rehearsal-7
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6474@jmhsband.org
-DTSTAMP:20260623T120048Z
+DTSTAMP:20260624T115443Z
 DTSTART;TZID=America/New_York:20260604T180000
 DTEND;TZID=America/New_York:20260604T210000
 SUMMARY:Band Banquet 
@@ -109,7 +99,7 @@ URL:https://jmhsband.org/index.php/calendar/band-banquet-7
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6473@jmhsband.org
-DTSTAMP:20260623T120048Z
+DTSTAMP:20260624T115443Z
 DTSTART;VALUE=DATE:20260609
 DTEND;VALUE=DATE:20260610
 SUMMARY:Graduation
@@ -119,7 +109,7 @@ URL:https://jmhsband.org/index.php/calendar/graduation-8
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6653@jmhsband.org
-DTSTAMP:20260623T120048Z
+DTSTAMP:20260624T115443Z
 DTSTART;TZID=America/New_York:20260609T180000
 DTEND;TZID=America/New_York:20260609T200000
 SUMMARY:Marching Percussion Rehearsal
@@ -130,7 +120,7 @@ URL:https://jmhsband.org/index.php/calendar/marching-percussion-rehearsal-8
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6721@jmhsband.org
-DTSTAMP:20260623T120048Z
+DTSTAMP:20260624T115443Z
 DTSTART;TZID=America/New_York:20260609T180000
 DTEND;TZID=America/New_York:20260609T200000
 SUMMARY:Marching Winds Music Reading Session
@@ -142,7 +132,7 @@ URL:https://jmhsband.org/index.php/calendar/wind-marching-music-reading-ses
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6686@jmhsband.org
-DTSTAMP:20260623T120048Z
+DTSTAMP:20260624T115443Z
 DTSTART;TZID=America/New_York:20260609T180000
 DTEND;TZID=America/New_York:20260609T200000
 SUMMARY:Color Guard
@@ -152,7 +142,7 @@ URL:https://jmhsband.org/index.php/calendar/color-guard-6
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6740@jmhsband.org
-DTSTAMP:20260623T120048Z
+DTSTAMP:20260624T115443Z
 DTSTART;TZID=America/New_York:20260611T180000
 DTEND;TZID=America/New_York:20260611T200000
 SUMMARY:Movement Clinic
@@ -162,7 +152,7 @@ URL:https://jmhsband.org/index.php/calendar/movement-clinic-6
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6687@jmhsband.org
-DTSTAMP:20260623T120048Z
+DTSTAMP:20260624T115443Z
 DTSTART;TZID=America/New_York:20260616T180000
 DTEND;TZID=America/New_York:20260616T200000
 SUMMARY:Color Guard
@@ -172,7 +162,7 @@ URL:https://jmhsband.org/index.php/calendar/color-guard-7
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6407@jmhsband.org
-DTSTAMP:20260623T120048Z
+DTSTAMP:20260624T115443Z
 DTSTART;VALUE=DATE:20260617
 DTEND;VALUE=DATE:20260618
 SUMMARY:Last Day of School
@@ -182,7 +172,7 @@ URL:https://jmhsband.org/index.php/calendar/last-day-of-school-9
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6735@jmhsband.org
-DTSTAMP:20260623T120048Z
+DTSTAMP:20260624T115443Z
 DTSTART;TZID=America/New_York:20260618T180000
 DTEND;TZID=America/New_York:20260618T200000
 SUMMARY:Movement Clinic
@@ -192,7 +182,7 @@ URL:https://jmhsband.org/index.php/calendar/movement-clinic
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6730@jmhsband.org
-DTSTAMP:20260623T120048Z
+DTSTAMP:20260624T115443Z
 DTSTART;TZID=America/New_York:20260623T180000
 DTEND;TZID=America/New_York:20260623T200000
 SUMMARY:Color Guard
@@ -202,7 +192,7 @@ URL:https://jmhsband.org/index.php/calendar/color-guard-8
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6737@jmhsband.org
-DTSTAMP:20260623T120048Z
+DTSTAMP:20260624T115443Z
 DTSTART;TZID=America/New_York:20260702T180000
 DTEND;TZID=America/New_York:20260702T200000
 SUMMARY:Movement Clinic
@@ -212,7 +202,7 @@ URL:https://jmhsband.org/index.php/calendar/movement-clinic-3
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6731@jmhsband.org
-DTSTAMP:20260623T120048Z
+DTSTAMP:20260624T115443Z
 DTSTART;TZID=America/New_York:20260707T180000
 DTEND;TZID=America/New_York:20260707T200000
 SUMMARY:Color Guard
@@ -222,7 +212,7 @@ URL:https://jmhsband.org/index.php/calendar/color-guard-9
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6732@jmhsband.org
-DTSTAMP:20260623T120048Z
+DTSTAMP:20260624T115443Z
 DTSTART;TZID=America/New_York:20260714T180000
 DTEND;TZID=America/New_York:20260714T200000
 SUMMARY:Color Guard
@@ -232,7 +222,7 @@ URL:https://jmhsband.org/index.php/calendar/color-guard-10
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6733@jmhsband.org
-DTSTAMP:20260623T120048Z
+DTSTAMP:20260624T115443Z
 DTSTART;TZID=America/New_York:20260721T180000
 DTEND;TZID=America/New_York:20260721T200000
 SUMMARY:Color Guard
@@ -242,7 +232,7 @@ URL:https://jmhsband.org/index.php/calendar/color-guard-11
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6738@jmhsband.org
-DTSTAMP:20260623T120048Z
+DTSTAMP:20260624T115443Z
 DTSTART;TZID=America/New_York:20260723T180000
 DTEND;TZID=America/New_York:20260723T200000
 SUMMARY:Movement Clinic
@@ -252,7 +242,7 @@ URL:https://jmhsband.org/index.php/calendar/movement-clinic-4
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6734@jmhsband.org
-DTSTAMP:20260623T120048Z
+DTSTAMP:20260624T115443Z
 DTSTART;TZID=America/New_York:20260728T180000
 DTEND;TZID=America/New_York:20260728T200000
 SUMMARY:Color Guard
@@ -262,7 +252,7 @@ URL:https://jmhsband.org/index.php/calendar/color-guard-12
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6739@jmhsband.org
-DTSTAMP:20260623T120048Z
+DTSTAMP:20260624T115443Z
 DTSTART;TZID=America/New_York:20260730T180000
 DTEND;TZID=America/New_York:20260730T200000
 SUMMARY:Movement Clinic
@@ -272,7 +262,7 @@ URL:https://jmhsband.org/index.php/calendar/movement-clinic-5
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6655@jmhsband.org
-DTSTAMP:20260623T120048Z
+DTSTAMP:20260624T115443Z
 DTSTART;VALUE=DATE:20260803
 DTEND;VALUE=DATE:20260808
 SUMMARY:Band Camp - Week 1
@@ -282,7 +272,7 @@ URL:https://jmhsband.org/index.php/calendar/band-camp-week-10
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6656@jmhsband.org
-DTSTAMP:20260623T120048Z
+DTSTAMP:20260624T115443Z
 DTSTART;VALUE=DATE:20260810
 DTEND;VALUE=DATE:20260815
 SUMMARY:Band Camp - Week 2
@@ -292,7 +282,7 @@ URL:https://jmhsband.org/index.php/calendar/band-camp-week-11
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6657@jmhsband.org
-DTSTAMP:20260623T120048Z
+DTSTAMP:20260624T115443Z
 DTSTART;VALUE=DATE:20260817
 DTEND;VALUE=DATE:20260822
 SUMMARY:Band Camp - Week 3
@@ -302,7 +292,7 @@ URL:https://jmhsband.org/index.php/calendar/band-camp-week-12
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6658@jmhsband.org
-DTSTAMP:20260623T120048Z
+DTSTAMP:20260624T115443Z
 DTSTART;VALUE=DATE:20260824
 DTEND;VALUE=DATE:20260825
 SUMMARY:First Day of School 
@@ -312,7 +302,7 @@ URL:https://jmhsband.org/index.php/calendar/first-day-of-school-5
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6689@jmhsband.org
-DTSTAMP:20260623T120048Z
+DTSTAMP:20260624T115443Z
 DTSTART;TZID=America/New_York:20260826T173000
 DTEND;TZID=America/New_York:20260826T210000
 SUMMARY:Marching Ensemble
@@ -323,7 +313,7 @@ URL:https://jmhsband.org/index.php/calendar/marching-ensemble-84
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6710@jmhsband.org
-DTSTAMP:20260623T120048Z
+DTSTAMP:20260624T115443Z
 DTSTART;TZID=America/New_York:20260827T153000
 DTEND;TZID=America/New_York:20260827T180000
 SUMMARY:Marching Ensemble 
@@ -334,7 +324,7 @@ URL:https://jmhsband.org/index.php/calendar/marching-ensemble-97
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6700@jmhsband.org
-DTSTAMP:20260623T120048Z
+DTSTAMP:20260624T115443Z
 DTSTART;TZID=America/New_York:20260831T153000
 DTEND;TZID=America/New_York:20260831T180000
 SUMMARY:Marching Ensemble 
@@ -345,7 +335,7 @@ URL:https://jmhsband.org/index.php/calendar/marching-ensemble-93
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6690@jmhsband.org
-DTSTAMP:20260623T120048Z
+DTSTAMP:20260624T115443Z
 DTSTART;TZID=America/New_York:20260902T173000
 DTEND;TZID=America/New_York:20260902T210000
 SUMMARY:Marching Ensemble
@@ -356,7 +346,7 @@ URL:https://jmhsband.org/index.php/calendar/marching-ensemble-85
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6660@jmhsband.org
-DTSTAMP:20260623T120048Z
+DTSTAMP:20260624T115443Z
 DTSTART;VALUE=DATE:20260903
 DTEND;VALUE=DATE:20260904
 SUMMARY:Home Football - Centerville
@@ -366,7 +356,7 @@ URL:https://jmhsband.org/index.php/calendar/home-football-centerville
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6711@jmhsband.org
-DTSTAMP:20260623T120048Z
+DTSTAMP:20260624T115443Z
 DTSTART;TZID=America/New_York:20260903T153000
 DTEND;TZID=America/New_York:20260903T170000
 SUMMARY:Marching Ensemble 
@@ -377,7 +367,7 @@ URL:https://jmhsband.org/index.php/calendar/marching-ensemble-104
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6659@jmhsband.org
-DTSTAMP:20260623T120048Z
+DTSTAMP:20260624T115443Z
 DTSTART;VALUE=DATE:20260904
 DTEND;VALUE=DATE:20260908
 SUMMARY:Labor Day Holiday
@@ -387,7 +377,7 @@ URL:https://jmhsband.org/index.php/calendar/labor-day-holiday-36
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6701@jmhsband.org
-DTSTAMP:20260623T120048Z
+DTSTAMP:20260624T115443Z
 DTSTART;TZID=America/New_York:20260907T153000
 DTEND;TZID=America/New_York:20260907T180000
 SUMMARY:Marching Ensemble 
@@ -398,7 +388,7 @@ URL:https://jmhsband.org/index.php/calendar/marching-ensemble-95
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6691@jmhsband.org
-DTSTAMP:20260623T120048Z
+DTSTAMP:20260624T115443Z
 DTSTART;TZID=America/New_York:20260909T173000
 DTEND;TZID=America/New_York:20260909T210000
 SUMMARY:Marching Ensemble
@@ -409,7 +399,7 @@ URL:https://jmhsband.org/index.php/calendar/marching-ensemble-86
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6712@jmhsband.org
-DTSTAMP:20260623T120048Z
+DTSTAMP:20260624T115443Z
 DTSTART;TZID=America/New_York:20260910T153000
 DTEND;TZID=America/New_York:20260910T180000
 SUMMARY:Marching Ensemble 
@@ -420,7 +410,7 @@ URL:https://jmhsband.org/index.php/calendar/marching-ensemble-105
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6702@jmhsband.org
-DTSTAMP:20260623T120048Z
+DTSTAMP:20260624T115443Z
 DTSTART;TZID=America/New_York:20260914T153000
 DTEND;TZID=America/New_York:20260914T180000
 SUMMARY:Marching Ensemble 
@@ -431,7 +421,7 @@ URL:https://jmhsband.org/index.php/calendar/marching-ensemble-96
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6692@jmhsband.org
-DTSTAMP:20260623T120048Z
+DTSTAMP:20260624T115443Z
 DTSTART;TZID=America/New_York:20260916T173000
 DTEND;TZID=America/New_York:20260916T210000
 SUMMARY:Marching Ensemble
@@ -442,7 +432,7 @@ URL:https://jmhsband.org/index.php/calendar/marching-ensemble-87
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6713@jmhsband.org
-DTSTAMP:20260623T120048Z
+DTSTAMP:20260624T115443Z
 DTSTART;TZID=America/New_York:20260917T153000
 DTEND;TZID=America/New_York:20260917T180000
 SUMMARY:Marching Ensemble 
@@ -453,7 +443,7 @@ URL:https://jmhsband.org/index.php/calendar/marching-ensemble-106
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6661@jmhsband.org
-DTSTAMP:20260623T120048Z
+DTSTAMP:20260624T115443Z
 DTSTART;VALUE=DATE:20260918
 DTEND;VALUE=DATE:20260919
 SUMMARY:Home Football - Hayfield
@@ -463,7 +453,7 @@ URL:https://jmhsband.org/index.php/calendar/home-football-hayfield
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6675@jmhsband.org
-DTSTAMP:20260623T120048Z
+DTSTAMP:20260624T115443Z
 DTSTART;VALUE=DATE:20260919
 DTEND;VALUE=DATE:20260920
 SUMMARY:Tag Day
@@ -473,7 +463,7 @@ URL:https://jmhsband.org/index.php/calendar/tag-day-9
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6666@jmhsband.org
-DTSTAMP:20260623T120048Z
+DTSTAMP:20260624T115443Z
 DTSTART;VALUE=DATE:20260921
 DTEND;VALUE=DATE:20260922
 SUMMARY:Yom Kippur
@@ -483,7 +473,7 @@ URL:https://jmhsband.org/index.php/calendar/yom-kippur
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6693@jmhsband.org
-DTSTAMP:20260623T120048Z
+DTSTAMP:20260624T115443Z
 DTSTART;TZID=America/New_York:20260923T173000
 DTEND;TZID=America/New_York:20260923T210000
 SUMMARY:Marching Ensemble
@@ -494,7 +484,7 @@ URL:https://jmhsband.org/index.php/calendar/marching-ensemble-88
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6714@jmhsband.org
-DTSTAMP:20260623T120048Z
+DTSTAMP:20260624T115443Z
 DTSTART;TZID=America/New_York:20260924T153000
 DTEND;TZID=America/New_York:20260924T180000
 SUMMARY:Marching Ensemble 
@@ -505,7 +495,7 @@ URL:https://jmhsband.org/index.php/calendar/marching-ensemble-107
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6677@jmhsband.org
-DTSTAMP:20260623T120048Z
+DTSTAMP:20260624T115443Z
 DTSTART;VALUE=DATE:20260925
 DTEND;VALUE=DATE:20260928
 SUMMARY:BOA Regional - Columbus\, Ohio
@@ -516,7 +506,7 @@ URL:https://jmhsband.org/index.php/calendar/marching-competition-9
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6704@jmhsband.org
-DTSTAMP:20260623T120048Z
+DTSTAMP:20260624T115443Z
 DTSTART;TZID=America/New_York:20260928T153000
 DTEND;TZID=America/New_York:20260928T180000
 SUMMARY:Marching Ensemble 
@@ -527,7 +517,7 @@ URL:https://jmhsband.org/index.php/calendar/marching-ensemble-98
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6694@jmhsband.org
-DTSTAMP:20260623T120048Z
+DTSTAMP:20260624T115443Z
 DTSTART;TZID=America/New_York:20260930T173000
 DTEND;TZID=America/New_York:20260930T210000
 SUMMARY:Marching Ensemble
@@ -538,7 +528,7 @@ URL:https://jmhsband.org/index.php/calendar/marching-ensemble-89
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6715@jmhsband.org
-DTSTAMP:20260623T120048Z
+DTSTAMP:20260624T115443Z
 DTSTART;TZID=America/New_York:20261001T153000
 DTEND;TZID=America/New_York:20261001T180000
 SUMMARY:Marching Ensemble 
@@ -549,7 +539,7 @@ URL:https://jmhsband.org/index.php/calendar/marching-ensemble-108
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6678@jmhsband.org
-DTSTAMP:20260623T120048Z
+DTSTAMP:20260624T115443Z
 DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20261004
 SUMMARY:Marching Competition
@@ -559,7 +549,7 @@ URL:https://jmhsband.org/index.php/calendar/marching-competition-10
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6705@jmhsband.org
-DTSTAMP:20260623T120048Z
+DTSTAMP:20260624T115443Z
 DTSTART;TZID=America/New_York:20261005T153000
 DTEND;TZID=America/New_York:20261005T180000
 SUMMARY:Marching Ensemble 
@@ -570,7 +560,7 @@ URL:https://jmhsband.org/index.php/calendar/marching-ensemble-99
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6695@jmhsband.org
-DTSTAMP:20260623T120048Z
+DTSTAMP:20260624T115443Z
 DTSTART;TZID=America/New_York:20261007T173000
 DTEND;TZID=America/New_York:20261007T210000
 SUMMARY:Marching Ensemble
@@ -581,7 +571,7 @@ URL:https://jmhsband.org/index.php/calendar/marching-ensemble-90
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6716@jmhsband.org
-DTSTAMP:20260623T120048Z
+DTSTAMP:20260624T115443Z
 DTSTART;TZID=America/New_York:20261008T153000
 DTEND;TZID=America/New_York:20261008T180000
 SUMMARY:Marching Ensemble 
@@ -592,7 +582,7 @@ URL:https://jmhsband.org/index.php/calendar/marching-ensemble-109
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6662@jmhsband.org
-DTSTAMP:20260623T120048Z
+DTSTAMP:20260624T115443Z
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261010
 SUMMARY:Homecoming Football - Westfield 
@@ -602,7 +592,7 @@ URL:https://jmhsband.org/index.php/calendar/homecoming-football-westfield
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6667@jmhsband.org
-DTSTAMP:20260623T120048Z
+DTSTAMP:20260624T115443Z
 DTSTART;VALUE=DATE:20261012
 DTEND;VALUE=DATE:20261013
 SUMMARY:Teacher Work Day
@@ -612,7 +602,7 @@ URL:https://jmhsband.org/index.php/calendar/teacher-work-day-22
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6706@jmhsband.org
-DTSTAMP:20260623T120048Z
+DTSTAMP:20260624T115443Z
 DTSTART;TZID=America/New_York:20261012T153000
 DTEND;TZID=America/New_York:20261012T180000
 SUMMARY:Marching Ensemble 
@@ -623,7 +613,7 @@ URL:https://jmhsband.org/index.php/calendar/marching-ensemble-100
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6696@jmhsband.org
-DTSTAMP:20260623T120048Z
+DTSTAMP:20260624T115443Z
 DTSTART;TZID=America/New_York:20261014T173000
 DTEND;TZID=America/New_York:20261014T210000
 SUMMARY:Marching Ensemble
@@ -634,7 +624,7 @@ URL:https://jmhsband.org/index.php/calendar/marching-ensemble-91
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6717@jmhsband.org
-DTSTAMP:20260623T120048Z
+DTSTAMP:20260624T115443Z
 DTSTART;TZID=America/New_York:20261015T153000
 DTEND;TZID=America/New_York:20261015T180000
 SUMMARY:Marching Ensemble 
@@ -645,7 +635,7 @@ URL:https://jmhsband.org/index.php/calendar/marching-ensemble-110
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6663@jmhsband.org
-DTSTAMP:20260623T120048Z
+DTSTAMP:20260624T115443Z
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261017
 SUMMARY:Home Football - Centreville (Senior Night)
@@ -657,7 +647,7 @@ URL:https://jmhsband.org/index.php/calendar/home-football-centreville-senio
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6665@jmhsband.org
-DTSTAMP:20260623T120048Z
+DTSTAMP:20260624T115443Z
 DTSTART;VALUE=DATE:20261017
 DTEND;VALUE=DATE:20261018
 SUMMARY:Marching Competition
@@ -668,7 +658,7 @@ URL:https://jmhsband.org/index.php/calendar/boa-mid-atlantic-regional-unive
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6707@jmhsband.org
-DTSTAMP:20260623T120048Z
+DTSTAMP:20260624T115443Z
 DTSTART;TZID=America/New_York:20261019T153000
 DTEND;TZID=America/New_York:20261019T180000
 SUMMARY:Marching Ensemble 
@@ -679,7 +669,7 @@ URL:https://jmhsband.org/index.php/calendar/marching-ensemble-101
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6697@jmhsband.org
-DTSTAMP:20260623T120048Z
+DTSTAMP:20260624T115443Z
 DTSTART;TZID=America/New_York:20261021T173000
 DTEND;TZID=America/New_York:20261021T210000
 SUMMARY:Marching Ensemble
@@ -690,7 +680,7 @@ URL:https://jmhsband.org/index.php/calendar/marching-ensemble-92
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6718@jmhsband.org
-DTSTAMP:20260623T120048Z
+DTSTAMP:20260624T115443Z
 DTSTART;TZID=America/New_York:20261022T153000
 DTEND;TZID=America/New_York:20261022T180000
 SUMMARY:Marching Ensemble 
@@ -701,7 +691,7 @@ URL:https://jmhsband.org/index.php/calendar/marching-ensemble-111
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6679@jmhsband.org
-DTSTAMP:20260623T120048Z
+DTSTAMP:20260624T115443Z
 DTSTART;VALUE=DATE:20261024
 DTEND;VALUE=DATE:20261025
 SUMMARY:Marching Competition
@@ -711,7 +701,7 @@ URL:https://jmhsband.org/index.php/calendar/marching-competition-11
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6708@jmhsband.org
-DTSTAMP:20260623T120048Z
+DTSTAMP:20260624T115443Z
 DTSTART;TZID=America/New_York:20261026T153000
 DTEND;TZID=America/New_York:20261026T180000
 SUMMARY:Marching Ensemble 
@@ -722,7 +712,7 @@ URL:https://jmhsband.org/index.php/calendar/marching-ensemble-102
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6688@jmhsband.org
-DTSTAMP:20260623T120048Z
+DTSTAMP:20260624T115443Z
 DTSTART;TZID=America/New_York:20261028T190000
 DTEND;TZID=America/New_York:20261028T200000
 SUMMARY:Halloween Parade
@@ -732,7 +722,7 @@ URL:https://jmhsband.org/index.php/calendar/halloween-parade-15
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6719@jmhsband.org
-DTSTAMP:20260623T120048Z
+DTSTAMP:20260624T115443Z
 DTSTART;TZID=America/New_York:20261029T153000
 DTEND;TZID=America/New_York:20261029T180000
 SUMMARY:Marching Ensemble 
@@ -743,7 +733,7 @@ URL:https://jmhsband.org/index.php/calendar/marching-ensemble-112
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6668@jmhsband.org
-DTSTAMP:20260623T120048Z
+DTSTAMP:20260624T115443Z
 DTSTART;VALUE=DATE:20261102
 DTEND;VALUE=DATE:20261103
 SUMMARY:Teacher Work Day
@@ -753,7 +743,7 @@ URL:https://jmhsband.org/index.php/calendar/teacher-work-day-23
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6709@jmhsband.org
-DTSTAMP:20260623T120048Z
+DTSTAMP:20260624T115443Z
 DTSTART;TZID=America/New_York:20261102T153000
 DTEND;TZID=America/New_York:20261102T180000
 SUMMARY:Marching Ensemble 
@@ -764,7 +754,7 @@ URL:https://jmhsband.org/index.php/calendar/marching-ensemble-103
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6669@jmhsband.org
-DTSTAMP:20260623T120048Z
+DTSTAMP:20260624T115443Z
 DTSTART;VALUE=DATE:20261103
 DTEND;VALUE=DATE:20261104
 SUMMARY:Teacher Work Day
@@ -774,7 +764,7 @@ URL:https://jmhsband.org/index.php/calendar/teacher-work-day-24
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6699@jmhsband.org
-DTSTAMP:20260623T120048Z
+DTSTAMP:20260624T115443Z
 DTSTART;TZID=America/New_York:20261104T173000
 DTEND;TZID=America/New_York:20261104T210000
 SUMMARY:Marching Ensemble
@@ -785,7 +775,7 @@ URL:https://jmhsband.org/index.php/calendar/marching-ensemble-94
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6720@jmhsband.org
-DTSTAMP:20260623T120048Z
+DTSTAMP:20260624T115443Z
 DTSTART;TZID=America/New_York:20261105T153000
 DTEND;TZID=America/New_York:20261105T180000
 SUMMARY:Marching Ensemble 
@@ -796,7 +786,7 @@ URL:https://jmhsband.org/index.php/calendar/marching-ensemble-113
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6664@jmhsband.org
-DTSTAMP:20260623T120048Z
+DTSTAMP:20260624T115443Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
 SUMMARY:Home Football - Chantilly (Pyramid Band Night)
@@ -807,7 +797,7 @@ URL:https://jmhsband.org/index.php/calendar/home-football-chantilly-4
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6680@jmhsband.org
-DTSTAMP:20260623T120048Z
+DTSTAMP:20260624T115443Z
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261108
 SUMMARY:VMBC State Championship
@@ -817,7 +807,7 @@ URL:https://jmhsband.org/index.php/calendar/vmbc-state-championship-3
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6670@jmhsband.org
-DTSTAMP:20260623T120048Z
+DTSTAMP:20260624T115443Z
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261112
 SUMMARY:Veteren's Day
@@ -827,12 +817,22 @@ URL:https://jmhsband.org/index.php/calendar/veterens-day
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6671@jmhsband.org
-DTSTAMP:20260623T120048Z
+DTSTAMP:20260624T115443Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261128
 SUMMARY:Thanksgiving Break
 CATEGORIES:Holiday/School
 DESCRIPTION:11-25-2026 - 11-27-2026 [Holiday/School] Thanksgiving Break
 URL:https://jmhsband.org/index.php/calendar/thanksgiving-break-7
+END:VEVENT
+BEGIN:VEVENT
+UID:jmhs-band-6672@jmhsband.org
+DTSTAMP:20260624T115443Z
+DTSTART;VALUE=DATE:20261221
+DTEND;VALUE=DATE:20261226
+SUMMARY:Winter Break
+CATEGORIES:Holiday/School
+DESCRIPTION:12-21-2026 - 12-25-2026 [Holiday/School] Winter Break
+URL:https://jmhsband.org/index.php/calendar/winter-break-9
 END:VEVENT
 END:VCALENDAR
