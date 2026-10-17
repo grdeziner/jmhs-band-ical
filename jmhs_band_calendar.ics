@@ -26,19 +26,8 @@ TZNAME:EDT
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:jmhs-band-6692@jmhsband.org
-DTSTAMP:20261016T150439Z
-DTSTART;TZID=America/New_York:20260916T173000
-DTEND;TZID=America/New_York:20260916T210000
-SUMMARY:Marching Ensemble
-CATEGORIES:Marching Ensemble 
-DESCRIPTION:9-16-2026 5:30pm - 9:00pm [Marching Ensemble ] Marching Ensembl
- e
-URL:https://jmhsband.org/index.php/calendar/marching-ensemble-87
-END:VEVENT
-BEGIN:VEVENT
 UID:jmhs-band-6713@jmhsband.org
-DTSTAMP:20261016T150439Z
+DTSTAMP:20261017T135943Z
 DTSTART;TZID=America/New_York:20260917T153000
 DTEND;TZID=America/New_York:20260917T180000
 SUMMARY:Marching Ensemble 
@@ -49,7 +38,7 @@ URL:https://jmhsband.org/index.php/calendar/marching-ensemble-106
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6661@jmhsband.org
-DTSTAMP:20261016T150439Z
+DTSTAMP:20261017T135943Z
 DTSTART;VALUE=DATE:20260918
 DTEND;VALUE=DATE:20260919
 SUMMARY:Home Football - Hayfield
@@ -59,7 +48,7 @@ URL:https://jmhsband.org/index.php/calendar/home-football-hayfield
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6675@jmhsband.org
-DTSTAMP:20261016T150439Z
+DTSTAMP:20261017T135943Z
 DTSTART;VALUE=DATE:20260919
 DTEND;VALUE=DATE:20260920
 SUMMARY:Tag Day
@@ -69,7 +58,7 @@ URL:https://jmhsband.org/index.php/calendar/tag-day-9
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6666@jmhsband.org
-DTSTAMP:20261016T150439Z
+DTSTAMP:20261017T135943Z
 DTSTART;VALUE=DATE:20260921
 DTEND;VALUE=DATE:20260922
 SUMMARY:Yom Kippur
@@ -79,7 +68,7 @@ URL:https://jmhsband.org/index.php/calendar/yom-kippur
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6693@jmhsband.org
-DTSTAMP:20261016T150439Z
+DTSTAMP:20261017T135943Z
 DTSTART;TZID=America/New_York:20260923T173000
 DTEND;TZID=America/New_York:20260923T210000
 SUMMARY:Marching Ensemble
@@ -90,7 +79,7 @@ URL:https://jmhsband.org/index.php/calendar/marching-ensemble-88
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6714@jmhsband.org
-DTSTAMP:20261016T150439Z
+DTSTAMP:20261017T135943Z
 DTSTART;TZID=America/New_York:20260924T153000
 DTEND;TZID=America/New_York:20260924T180000
 SUMMARY:Marching Ensemble 
@@ -101,7 +90,7 @@ URL:https://jmhsband.org/index.php/calendar/marching-ensemble-107
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6677@jmhsband.org
-DTSTAMP:20261016T150439Z
+DTSTAMP:20261017T135943Z
 DTSTART;VALUE=DATE:20260926
 DTEND;VALUE=DATE:20260927
 SUMMARY:VMBC Herndon 
@@ -111,7 +100,7 @@ URL:https://jmhsband.org/index.php/calendar/marching-competition-9
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6753@jmhsband.org
-DTSTAMP:20261016T150439Z
+DTSTAMP:20261017T135943Z
 DTSTART;TZID=America/New_York:20260926T093000
 DTEND;TZID=America/New_York:20260926T120000
 SUMMARY:Marching Ensemble
@@ -122,7 +111,7 @@ URL:https://jmhsband.org/index.php/calendar/marching-ensemble-95
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6704@jmhsband.org
-DTSTAMP:20261016T150439Z
+DTSTAMP:20261017T135943Z
 DTSTART;TZID=America/New_York:20260928T153000
 DTEND;TZID=America/New_York:20260928T180000
 SUMMARY:Marching Ensemble 
@@ -133,7 +122,7 @@ URL:https://jmhsband.org/index.php/calendar/marching-ensemble-98
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6694@jmhsband.org
-DTSTAMP:20261016T150439Z
+DTSTAMP:20261017T135943Z
 DTSTART;TZID=America/New_York:20260930T173000
 DTEND;TZID=America/New_York:20260930T210000
 SUMMARY:Marching Ensemble
@@ -144,7 +133,7 @@ URL:https://jmhsband.org/index.php/calendar/marching-ensemble-89
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6715@jmhsband.org
-DTSTAMP:20261016T150439Z
+DTSTAMP:20261017T135943Z
 DTSTART;TZID=America/New_York:20261001T173000
 DTEND;TZID=America/New_York:20261001T210000
 SUMMARY:Marching Ensemble 
@@ -155,7 +144,7 @@ URL:https://jmhsband.org/index.php/calendar/marching-ensemble-108
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6678@jmhsband.org
-DTSTAMP:20261016T150439Z
+DTSTAMP:20261017T135943Z
 DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20261004
 SUMMARY:VMBC Rock Ridge
@@ -165,7 +154,7 @@ URL:https://jmhsband.org/index.php/calendar/marching-competition-10
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6754@jmhsband.org
-DTSTAMP:20261016T150439Z
+DTSTAMP:20261017T135943Z
 DTSTART;TZID=America/New_York:20261003T090000
 DTEND;TZID=America/New_York:20261003T113000
 SUMMARY:Marching Ensemble
@@ -176,7 +165,7 @@ URL:https://jmhsband.org/index.php/calendar/marching-ensemble-103
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6705@jmhsband.org
-DTSTAMP:20261016T150439Z
+DTSTAMP:20261017T135943Z
 DTSTART;TZID=America/New_York:20261005T153000
 DTEND;TZID=America/New_York:20261005T180000
 SUMMARY:Marching Ensemble 
@@ -187,7 +176,7 @@ URL:https://jmhsband.org/index.php/calendar/marching-ensemble-99
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6695@jmhsband.org
-DTSTAMP:20261016T150439Z
+DTSTAMP:20261017T135943Z
 DTSTART;TZID=America/New_York:20261007T173000
 DTEND;TZID=America/New_York:20261007T210000
 SUMMARY:Marching Ensemble
@@ -198,7 +187,7 @@ URL:https://jmhsband.org/index.php/calendar/marching-ensemble-90
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6716@jmhsband.org
-DTSTAMP:20261016T150439Z
+DTSTAMP:20261017T135943Z
 DTSTART;TZID=America/New_York:20261008T153000
 DTEND;TZID=America/New_York:20261008T180000
 SUMMARY:Marching Ensemble 
@@ -209,7 +198,7 @@ URL:https://jmhsband.org/index.php/calendar/marching-ensemble-109
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6662@jmhsband.org
-DTSTAMP:20261016T150439Z
+DTSTAMP:20261017T135943Z
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261010
 SUMMARY:Homecoming Football - Westfield 
@@ -219,7 +208,7 @@ URL:https://jmhsband.org/index.php/calendar/homecoming-football-westfield
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6667@jmhsband.org
-DTSTAMP:20261016T150439Z
+DTSTAMP:20261017T135943Z
 DTSTART;VALUE=DATE:20261012
 DTEND;VALUE=DATE:20261013
 SUMMARY:Teacher Work Day
@@ -229,7 +218,7 @@ URL:https://jmhsband.org/index.php/calendar/teacher-work-day-22
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6706@jmhsband.org
-DTSTAMP:20261016T150439Z
+DTSTAMP:20261017T135943Z
 DTSTART;TZID=America/New_York:20261012T143000
 DTEND;TZID=America/New_York:20261012T180000
 SUMMARY:Marching Ensemble **
@@ -240,7 +229,7 @@ URL:https://jmhsband.org/index.php/calendar/marching-ensemble-100
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6696@jmhsband.org
-DTSTAMP:20261016T150439Z
+DTSTAMP:20261017T135943Z
 DTSTART;TZID=America/New_York:20261014T173000
 DTEND;TZID=America/New_York:20261014T210000
 SUMMARY:Marching Ensemble
@@ -251,7 +240,7 @@ URL:https://jmhsband.org/index.php/calendar/marching-ensemble-91
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6717@jmhsband.org
-DTSTAMP:20261016T150439Z
+DTSTAMP:20261017T135943Z
 DTSTART;TZID=America/New_York:20261015T153000
 DTEND;TZID=America/New_York:20261015T180000
 SUMMARY:Marching Ensemble 
@@ -262,7 +251,7 @@ URL:https://jmhsband.org/index.php/calendar/marching-ensemble-110
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6663@jmhsband.org
-DTSTAMP:20261016T150439Z
+DTSTAMP:20261017T135943Z
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261017
 SUMMARY:Home Football - Centreville (Senior Night)
@@ -274,7 +263,7 @@ URL:https://jmhsband.org/index.php/calendar/home-football-centreville-senio
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6665@jmhsband.org
-DTSTAMP:20261016T150439Z
+DTSTAMP:20261017T135943Z
 DTSTART;VALUE=DATE:20261017
 DTEND;VALUE=DATE:20261018
 SUMMARY:BOA Regional - Delaware
@@ -285,7 +274,7 @@ URL:https://jmhsband.org/index.php/calendar/boa-mid-atlantic-regional-unive
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6707@jmhsband.org
-DTSTAMP:20261016T150439Z
+DTSTAMP:20261017T135943Z
 DTSTART;TZID=America/New_York:20261019T153000
 DTEND;TZID=America/New_York:20261019T180000
 SUMMARY:Marching Ensemble 
@@ -296,7 +285,7 @@ URL:https://jmhsband.org/index.php/calendar/marching-ensemble-101
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6697@jmhsband.org
-DTSTAMP:20261016T150439Z
+DTSTAMP:20261017T135943Z
 DTSTART;TZID=America/New_York:20261021T173000
 DTEND;TZID=America/New_York:20261021T210000
 SUMMARY:Marching Ensemble
@@ -307,7 +296,7 @@ URL:https://jmhsband.org/index.php/calendar/marching-ensemble-92
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6718@jmhsband.org
-DTSTAMP:20261016T150439Z
+DTSTAMP:20261017T135943Z
 DTSTART;TZID=America/New_York:20261022T173000
 DTEND;TZID=America/New_York:20261022T210000
 SUMMARY:Marching Ensemble**
@@ -318,7 +307,7 @@ URL:https://jmhsband.org/index.php/calendar/marching-ensemble-111
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6679@jmhsband.org
-DTSTAMP:20261016T150439Z
+DTSTAMP:20261017T135943Z
 DTSTART;VALUE=DATE:20261024
 DTEND;VALUE=DATE:20261025
 SUMMARY:VBODA Assessment / VMBC South County
@@ -329,7 +318,7 @@ URL:https://jmhsband.org/index.php/calendar/marching-competition-11
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6708@jmhsband.org
-DTSTAMP:20261016T150439Z
+DTSTAMP:20261017T135943Z
 DTSTART;TZID=America/New_York:20261026T153000
 DTEND;TZID=America/New_York:20261026T180000
 SUMMARY:Marching Ensemble 
@@ -340,7 +329,7 @@ URL:https://jmhsband.org/index.php/calendar/marching-ensemble-102
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6688@jmhsband.org
-DTSTAMP:20261016T150439Z
+DTSTAMP:20261017T135943Z
 DTSTART;TZID=America/New_York:20261028T190000
 DTEND;TZID=America/New_York:20261028T200000
 SUMMARY:Halloween Parade
@@ -350,7 +339,7 @@ URL:https://jmhsband.org/index.php/calendar/halloween-parade-15
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6719@jmhsband.org
-DTSTAMP:20261016T150439Z
+DTSTAMP:20261017T135943Z
 DTSTART;TZID=America/New_York:20261029T173000
 DTEND;TZID=America/New_York:20261029T210000
 SUMMARY:Marching Ensemble **
@@ -361,7 +350,7 @@ URL:https://jmhsband.org/index.php/calendar/marching-ensemble-112
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6668@jmhsband.org
-DTSTAMP:20261016T150439Z
+DTSTAMP:20261017T135943Z
 DTSTART;VALUE=DATE:20261102
 DTEND;VALUE=DATE:20261103
 SUMMARY:Teacher Work Day
@@ -371,7 +360,7 @@ URL:https://jmhsband.org/index.php/calendar/teacher-work-day-23
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6669@jmhsband.org
-DTSTAMP:20261016T150439Z
+DTSTAMP:20261017T135943Z
 DTSTART;VALUE=DATE:20261103
 DTEND;VALUE=DATE:20261104
 SUMMARY:Teacher Work Day
@@ -381,7 +370,7 @@ URL:https://jmhsband.org/index.php/calendar/teacher-work-day-24
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6699@jmhsband.org
-DTSTAMP:20261016T150439Z
+DTSTAMP:20261017T135943Z
 DTSTART;TZID=America/New_York:20261104T173000
 DTEND;TZID=America/New_York:20261104T210000
 SUMMARY:Marching Ensemble
@@ -392,7 +381,7 @@ URL:https://jmhsband.org/index.php/calendar/marching-ensemble-94
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6720@jmhsband.org
-DTSTAMP:20261016T150439Z
+DTSTAMP:20261017T135943Z
 DTSTART;TZID=America/New_York:20261105T153000
 DTEND;TZID=America/New_York:20261105T180000
 SUMMARY:Marching Ensemble
@@ -403,7 +392,7 @@ URL:https://jmhsband.org/index.php/calendar/marching-ensemble-113
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6664@jmhsband.org
-DTSTAMP:20261016T150439Z
+DTSTAMP:20261017T135943Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
 SUMMARY:Home Football - Chantilly (Pyramid Band Night)
@@ -414,7 +403,7 @@ URL:https://jmhsband.org/index.php/calendar/home-football-chantilly-4
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6680@jmhsband.org
-DTSTAMP:20261016T150439Z
+DTSTAMP:20261017T135943Z
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261108
 SUMMARY:VMBC State Championship
@@ -424,7 +413,7 @@ URL:https://jmhsband.org/index.php/calendar/vmbc-state-championship-3
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6670@jmhsband.org
-DTSTAMP:20261016T150439Z
+DTSTAMP:20261017T135943Z
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261112
 SUMMARY:Veteren's Day
@@ -434,7 +423,7 @@ URL:https://jmhsband.org/index.php/calendar/veterens-day
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6759@jmhsband.org
-DTSTAMP:20261016T150439Z
+DTSTAMP:20261017T135943Z
 DTSTART;TZID=America/New_York:20261111T180000
 DTEND;TZID=America/New_York:20261111T200000
 SUMMARY:Chair Auditions 
@@ -445,7 +434,7 @@ URL:https://jmhsband.org/index.php/calendar/chair-auditions
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6760@jmhsband.org
-DTSTAMP:20261016T150439Z
+DTSTAMP:20261017T135943Z
 DTSTART;TZID=America/New_York:20261116T153000
 DTEND;TZID=America/New_York:20261116T173000
 SUMMARY:Wind Symphony
@@ -455,7 +444,7 @@ URL:https://jmhsband.org/index.php/calendar/wind-symphony-109
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6774@jmhsband.org
-DTSTAMP:20261016T150439Z
+DTSTAMP:20261017T135943Z
 DTSTART;TZID=America/New_York:20261118T153000
 DTEND;TZID=America/New_York:20261118T170000
 SUMMARY:Symphonic Band 
@@ -465,7 +454,7 @@ URL:https://jmhsband.org/index.php/calendar/symphonic-band-82
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6761@jmhsband.org
-DTSTAMP:20261016T150439Z
+DTSTAMP:20261017T135943Z
 DTSTART;TZID=America/New_York:20261118T180000
 DTEND;TZID=America/New_York:20261118T203000
 SUMMARY:Wind Symphony
@@ -475,7 +464,7 @@ URL:https://jmhsband.org/index.php/calendar/wind-symphony-110
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6758@jmhsband.org
-DTSTAMP:20261016T150439Z
+DTSTAMP:20261017T135943Z
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
 SUMMARY:Turkey Trot
@@ -485,7 +474,7 @@ URL:https://jmhsband.org/index.php/calendar/turkey-trot-8
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6762@jmhsband.org
-DTSTAMP:20261016T150439Z
+DTSTAMP:20261017T135943Z
 DTSTART;TZID=America/New_York:20261123T153000
 DTEND;TZID=America/New_York:20261123T173000
 SUMMARY:Wind Symphony
@@ -495,7 +484,7 @@ URL:https://jmhsband.org/index.php/calendar/wind-symphony-111
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6671@jmhsband.org
-DTSTAMP:20261016T150439Z
+DTSTAMP:20261017T135943Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261128
 SUMMARY:Thanksgiving Break
@@ -504,8 +493,18 @@ DESCRIPTION:11-25-2026 - 11-27-2026 [Holiday/School] Thanksgiving Break
 URL:https://jmhsband.org/index.php/calendar/thanksgiving-break-7
 END:VEVENT
 BEGIN:VEVENT
+UID:jmhs-band-6764@jmhsband.org
+DTSTAMP:20261017T135943Z
+DTSTART;TZID=America/New_York:20261130T153000
+DTEND;TZID=America/New_York:20261130T173000
+SUMMARY:Wind Symphony
+CATEGORIES:Rehearsal
+DESCRIPTION:11-30-2026 3:30pm - 5:30pm [Rehearsal] Wind Symphony
+URL:https://jmhsband.org/index.php/calendar/wind-symphony-113
+END:VEVENT
+BEGIN:VEVENT
 UID:jmhs-band-6767@jmhsband.org
-DTSTAMP:20261016T150439Z
+DTSTAMP:20261017T135943Z
 DTSTART;TZID=America/New_York:20261130T153000
 DTEND;TZID=America/New_York:20261130T173000
 SUMMARY:Tint Tots Cast and Crew
@@ -515,18 +514,8 @@ DESCRIPTION:11-30-2026 3:30pm - 5:30pm [JMHS Band Program Calendar] Tint To
 URL:https://jmhsband.org/index.php/calendar/tint-tots-cast-and-crew
 END:VEVENT
 BEGIN:VEVENT
-UID:jmhs-band-6764@jmhsband.org
-DTSTAMP:20261016T150439Z
-DTSTART;TZID=America/New_York:20261130T153000
-DTEND;TZID=America/New_York:20261130T173000
-SUMMARY:Wind Symphony
-CATEGORIES:Rehearsal
-DESCRIPTION:11-30-2026 3:30pm - 5:30pm [Rehearsal] Wind Symphony
-URL:https://jmhsband.org/index.php/calendar/wind-symphony-113
-END:VEVENT
-BEGIN:VEVENT
 UID:jmhs-band-6766@jmhsband.org
-DTSTAMP:20261016T150439Z
+DTSTAMP:20261017T135943Z
 DTSTART;TZID=America/New_York:20261202T173000
 DTEND;TZID=America/New_York:20261202T203000
 SUMMARY:Tiny Tots Dress Rehearsal 
@@ -537,7 +526,7 @@ URL:https://jmhsband.org/index.php/calendar/tiny-tots-dress-rehearsal-9
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6765@jmhsband.org
-DTSTAMP:20261016T150439Z
+DTSTAMP:20261017T135943Z
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261205
 SUMMARY:Tiny Tots
@@ -547,7 +536,7 @@ URL:https://jmhsband.org/index.php/calendar/tiny-tots-23
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6763@jmhsband.org
-DTSTAMP:20261016T150439Z
+DTSTAMP:20261017T135943Z
 DTSTART;TZID=America/New_York:20261207T153000
 DTEND;TZID=America/New_York:20261207T173000
 SUMMARY:Wind Symphony
@@ -557,7 +546,7 @@ URL:https://jmhsband.org/index.php/calendar/wind-symphony-112
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6770@jmhsband.org
-DTSTAMP:20261016T150439Z
+DTSTAMP:20261017T135943Z
 DTSTART;TZID=America/New_York:20261209T153000
 DTEND;TZID=America/New_York:20261209T170000
 SUMMARY:Symphonic Band
@@ -567,7 +556,7 @@ URL:https://jmhsband.org/index.php/calendar/symphonic-band-64
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6769@jmhsband.org
-DTSTAMP:20261016T150439Z
+DTSTAMP:20261017T135943Z
 DTSTART;TZID=America/New_York:20261209T180000
 DTEND;TZID=America/New_York:20261209T203000
 SUMMARY:Wind Symphony
@@ -577,7 +566,7 @@ URL:https://jmhsband.org/index.php/calendar/wind-symphony-115
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6771@jmhsband.org
-DTSTAMP:20261016T150439Z
+DTSTAMP:20261017T135943Z
 DTSTART;TZID=America/New_York:20261210T153000
 DTEND;TZID=America/New_York:20261210T170000
 SUMMARY:Symphonic Band
@@ -587,7 +576,7 @@ URL:https://jmhsband.org/index.php/calendar/symphonic-band-81
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6744@jmhsband.org
-DTSTAMP:20261016T150439Z
+DTSTAMP:20261017T135943Z
 DTSTART;TZID=America/New_York:20261210T190000
 DTEND;TZID=America/New_York:20261210T200000
 SUMMARY:Winter Jazz
@@ -597,7 +586,7 @@ URL:https://jmhsband.org/index.php/calendar/winter-jazz
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6768@jmhsband.org
-DTSTAMP:20261016T150439Z
+DTSTAMP:20261017T135943Z
 DTSTART;TZID=America/New_York:20261214T153000
 DTEND;TZID=America/New_York:20261214T170000
 SUMMARY:Wind Symphony
@@ -607,7 +596,7 @@ URL:https://jmhsband.org/index.php/calendar/wind-symphony-114
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6773@jmhsband.org
-DTSTAMP:20261016T150439Z
+DTSTAMP:20261017T135943Z
 DTSTART;TZID=America/New_York:20261215T153000
 DTEND;TZID=America/New_York:20261215T163000
 SUMMARY:Symphonic Band
@@ -617,7 +606,7 @@ URL:https://jmhsband.org/index.php/calendar/symphonic-band-83
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6745@jmhsband.org
-DTSTAMP:20261016T150439Z
+DTSTAMP:20261017T135943Z
 DTSTART;TZID=America/New_York:20261215T190000
 DTEND;TZID=America/New_York:20261215T200000
 SUMMARY:Winter Concert
@@ -627,7 +616,7 @@ URL:https://jmhsband.org/index.php/calendar/winter-jazz-2
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6672@jmhsband.org
-DTSTAMP:20261016T150439Z
+DTSTAMP:20261017T135943Z
 DTSTART;VALUE=DATE:20261221
 DTEND;VALUE=DATE:20261226
 SUMMARY:Winter Break
@@ -637,7 +626,7 @@ URL:https://jmhsband.org/index.php/calendar/winter-break-9
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6674@jmhsband.org
-DTSTAMP:20261016T150439Z
+DTSTAMP:20261017T135943Z
 DTSTART;VALUE=DATE:20261228
 DTEND;VALUE=DATE:20270102
 SUMMARY:Winter Break
@@ -647,7 +636,7 @@ URL:https://jmhsband.org/index.php/calendar/winter-break-11
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6775@jmhsband.org
-DTSTAMP:20261016T150439Z
+DTSTAMP:20261017T135943Z
 DTSTART;TZID=America/New_York:20270106T180000
 DTEND;TZID=America/New_York:20270106T203000
 SUMMARY:Wind Symphony
@@ -657,7 +646,7 @@ URL:https://jmhsband.org/index.php/calendar/wind-symphony-116
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6748@jmhsband.org
-DTSTAMP:20261016T150439Z
+DTSTAMP:20261017T135943Z
 DTSTART;VALUE=DATE:20270109
 DTEND;VALUE=DATE:20270110
 SUMMARY:District Band Auditions
@@ -667,7 +656,7 @@ URL:https://jmhsband.org/index.php/calendar/district-band-auditions-8
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6786@jmhsband.org
-DTSTAMP:20261016T150439Z
+DTSTAMP:20261017T135943Z
 DTSTART;TZID=America/New_York:20270111T153000
 DTEND;TZID=America/New_York:20270111T173000
 SUMMARY:Wind Symphony
@@ -677,7 +666,7 @@ URL:https://jmhsband.org/index.php/calendar/wind-symphony-124
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6776@jmhsband.org
-DTSTAMP:20261016T150439Z
+DTSTAMP:20261017T135943Z
 DTSTART;TZID=America/New_York:20270113T180000
 DTEND;TZID=America/New_York:20270113T203000
 SUMMARY:Wind Symphony
@@ -687,7 +676,7 @@ URL:https://jmhsband.org/index.php/calendar/wind-symphony-117
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6741@jmhsband.org
-DTSTAMP:20261016T150439Z
+DTSTAMP:20261017T135943Z
 DTSTART;VALUE=DATE:20270118
 DTEND;VALUE=DATE:20270119
 SUMMARY:MLK Holiday
@@ -697,7 +686,7 @@ URL:https://jmhsband.org/index.php/calendar/mlk-holiday-5
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6777@jmhsband.org
-DTSTAMP:20261016T150439Z
+DTSTAMP:20261017T135943Z
 DTSTART;TZID=America/New_York:20270120T180000
 DTEND;TZID=America/New_York:20270120T203000
 SUMMARY:Wind Symphony
@@ -707,7 +696,7 @@ URL:https://jmhsband.org/index.php/calendar/wind-symphony-118
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6787@jmhsband.org
-DTSTAMP:20261016T150439Z
+DTSTAMP:20261017T135943Z
 DTSTART;TZID=America/New_York:20270125T153000
 DTEND;TZID=America/New_York:20270125T173000
 SUMMARY:Wind Symphony
@@ -717,7 +706,7 @@ URL:https://jmhsband.org/index.php/calendar/wind-symphony-127
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6800@jmhsband.org
-DTSTAMP:20261016T150439Z
+DTSTAMP:20261017T135943Z
 DTSTART;TZID=America/New_York:20270127T153000
 DTEND;TZID=America/New_York:20270127T170000
 SUMMARY:Symphonic Band
@@ -727,7 +716,7 @@ URL:https://jmhsband.org/index.php/calendar/symphonic-band-90
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6778@jmhsband.org
-DTSTAMP:20261016T150439Z
+DTSTAMP:20261017T135943Z
 DTSTART;TZID=America/New_York:20270127T180000
 DTEND;TZID=America/New_York:20270127T203000
 SUMMARY:Wind Symphony
@@ -737,7 +726,7 @@ URL:https://jmhsband.org/index.php/calendar/wind-symphony-119
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6743@jmhsband.org
-DTSTAMP:20261016T150439Z
+DTSTAMP:20261017T135943Z
 DTSTART;VALUE=DATE:20270129
 DTEND;VALUE=DATE:20270130
 SUMMARY:Teacher Work Day
@@ -747,7 +736,7 @@ URL:https://jmhsband.org/index.php/calendar/teacher-work-day-28
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6742@jmhsband.org
-DTSTAMP:20261016T150439Z
+DTSTAMP:20261017T135943Z
 DTSTART;VALUE=DATE:20270201
 DTEND;VALUE=DATE:20270202
 SUMMARY:Teacher Work Day
@@ -757,7 +746,7 @@ URL:https://jmhsband.org/index.php/calendar/teacher-work-day-27
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6794@jmhsband.org
-DTSTAMP:20261016T150439Z
+DTSTAMP:20261017T135943Z
 DTSTART;TZID=America/New_York:20270203T153000
 DTEND;TZID=America/New_York:20270203T170000
 SUMMARY:Symphonic Band
@@ -767,7 +756,7 @@ URL:https://jmhsband.org/index.php/calendar/symphonic-band-84
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6779@jmhsband.org
-DTSTAMP:20261016T150439Z
+DTSTAMP:20261017T135943Z
 DTSTART;TZID=America/New_York:20270203T180000
 DTEND;TZID=America/New_York:20270203T203000
 SUMMARY:Wind Symphony
@@ -777,7 +766,7 @@ URL:https://jmhsband.org/index.php/calendar/wind-symphony-120
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6749@jmhsband.org
-DTSTAMP:20261016T150439Z
+DTSTAMP:20261017T135943Z
 DTSTART;VALUE=DATE:20270205
 DTEND;VALUE=DATE:20270207
 SUMMARY:District Band Event
@@ -788,7 +777,7 @@ URL:https://jmhsband.org/index.php/calendar/district-band-event-3
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6789@jmhsband.org
-DTSTAMP:20261016T150439Z
+DTSTAMP:20261017T135943Z
 DTSTART;TZID=America/New_York:20270208T153000
 DTEND;TZID=America/New_York:20270208T173000
 SUMMARY:Wind Symphony
@@ -798,7 +787,7 @@ URL:https://jmhsband.org/index.php/calendar/wind-symphony-129
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6795@jmhsband.org
-DTSTAMP:20261016T150439Z
+DTSTAMP:20261017T135943Z
 DTSTART;TZID=America/New_York:20270210T153000
 DTEND;TZID=America/New_York:20270210T170000
 SUMMARY:Symphonic Band
@@ -808,7 +797,7 @@ URL:https://jmhsband.org/index.php/calendar/symphonic-band-85
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6780@jmhsband.org
-DTSTAMP:20261016T150439Z
+DTSTAMP:20261017T135943Z
 DTSTART;TZID=America/New_York:20270210T180000
 DTEND;TZID=America/New_York:20270210T203000
 SUMMARY:Wind Symphony
@@ -818,7 +807,7 @@ URL:https://jmhsband.org/index.php/calendar/wind-symphony-121
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6729@jmhsband.org
-DTSTAMP:20261016T150439Z
+DTSTAMP:20261017T135943Z
 DTSTART;VALUE=DATE:20270215
 DTEND;VALUE=DATE:20270216
 SUMMARY:President's Day
@@ -828,7 +817,7 @@ URL:https://jmhsband.org/index.php/calendar/presidents-day
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6796@jmhsband.org
-DTSTAMP:20261016T150439Z
+DTSTAMP:20261017T135943Z
 DTSTART;TZID=America/New_York:20270217T153000
 DTEND;TZID=America/New_York:20270217T170000
 SUMMARY:Symphonic Band
@@ -838,7 +827,7 @@ URL:https://jmhsband.org/index.php/calendar/symphonic-band-86
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6781@jmhsband.org
-DTSTAMP:20261016T150439Z
+DTSTAMP:20261017T135943Z
 DTSTART;TZID=America/New_York:20270217T180000
 DTEND;TZID=America/New_York:20270217T203000
 SUMMARY:Wind Symphony
@@ -848,7 +837,7 @@ URL:https://jmhsband.org/index.php/calendar/wind-symphony-122
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6801@jmhsband.org
-DTSTAMP:20261016T150439Z
+DTSTAMP:20261017T135943Z
 DTSTART;TZID=America/New_York:20270218T153000
 DTEND;TZID=America/New_York:20270218T170000
 SUMMARY:Symphonic Band
@@ -858,7 +847,7 @@ URL:https://jmhsband.org/index.php/calendar/symphonic-band-91
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6791@jmhsband.org
-DTSTAMP:20261016T150439Z
+DTSTAMP:20261017T135943Z
 DTSTART;TZID=America/New_York:20270222T153000
 DTEND;TZID=America/New_York:20270222T173000
 SUMMARY:Wind Symphony
@@ -868,7 +857,7 @@ URL:https://jmhsband.org/index.php/calendar/wind-symphony-131
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6797@jmhsband.org
-DTSTAMP:20261016T150439Z
+DTSTAMP:20261017T135943Z
 DTSTART;TZID=America/New_York:20270224T153000
 DTEND;TZID=America/New_York:20270224T170000
 SUMMARY:Symphonic Band
@@ -878,7 +867,7 @@ URL:https://jmhsband.org/index.php/calendar/symphonic-band-87
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6782@jmhsband.org
-DTSTAMP:20261016T150439Z
+DTSTAMP:20261017T135943Z
 DTSTART;TZID=America/New_York:20270224T180000
 DTEND;TZID=America/New_York:20270224T203000
 SUMMARY:Wind Symphony
@@ -888,7 +877,7 @@ URL:https://jmhsband.org/index.php/calendar/wind-symphony-123
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6802@jmhsband.org
-DTSTAMP:20261016T150439Z
+DTSTAMP:20261017T135943Z
 DTSTART;TZID=America/New_York:20270225T153000
 DTEND;TZID=America/New_York:20270225T170000
 SUMMARY:Symphonic Band
@@ -898,7 +887,7 @@ URL:https://jmhsband.org/index.php/calendar/symphonic-band-92
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6750@jmhsband.org
-DTSTAMP:20261016T150439Z
+DTSTAMP:20261017T135943Z
 DTSTART;VALUE=DATE:20270227
 DTEND;VALUE=DATE:20270228
 SUMMARY:All-VA Band Auditions
@@ -908,7 +897,7 @@ URL:https://jmhsband.org/index.php/calendar/all-va-band-auditions-5
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6792@jmhsband.org
-DTSTAMP:20261016T150439Z
+DTSTAMP:20261017T135943Z
 DTSTART;TZID=America/New_York:20270301T153000
 DTEND;TZID=America/New_York:20270301T173000
 SUMMARY:Wind Symphony
@@ -918,7 +907,7 @@ URL:https://jmhsband.org/index.php/calendar/wind-symphony-132
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6798@jmhsband.org
-DTSTAMP:20261016T150439Z
+DTSTAMP:20261017T135943Z
 DTSTART;TZID=America/New_York:20270303T153000
 DTEND;TZID=America/New_York:20270303T170000
 SUMMARY:Symphonic Band
@@ -928,7 +917,7 @@ URL:https://jmhsband.org/index.php/calendar/symphonic-band-88
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6784@jmhsband.org
-DTSTAMP:20261016T150439Z
+DTSTAMP:20261017T135943Z
 DTSTART;TZID=America/New_York:20270303T180000
 DTEND;TZID=America/New_York:20270303T203000
 SUMMARY:Wind Symphony
@@ -938,7 +927,7 @@ URL:https://jmhsband.org/index.php/calendar/wind-symphony-125
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6803@jmhsband.org
-DTSTAMP:20261016T150439Z
+DTSTAMP:20261017T135943Z
 DTSTART;TZID=America/New_York:20270304T153000
 DTEND;TZID=America/New_York:20270304T160000
 SUMMARY:Symphonic Band
@@ -948,7 +937,7 @@ URL:https://jmhsband.org/index.php/calendar/symphonic-band-93
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6746@jmhsband.org
-DTSTAMP:20261016T150439Z
+DTSTAMP:20261017T135943Z
 DTSTART;TZID=America/New_York:20270304T190000
 DTEND;TZID=America/New_York:20270304T200000
 SUMMARY:Pre-Assessment Concert 
@@ -958,7 +947,7 @@ URL:https://jmhsband.org/index.php/calendar/pre-assessment-concert-7
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6793@jmhsband.org
-DTSTAMP:20261016T150439Z
+DTSTAMP:20261017T135943Z
 DTSTART;TZID=America/New_York:20270308T153000
 DTEND;TZID=America/New_York:20270308T173000
 SUMMARY:Wind Symphony
@@ -968,7 +957,7 @@ URL:https://jmhsband.org/index.php/calendar/wind-symphony-133
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6728@jmhsband.org
-DTSTAMP:20261016T150439Z
+DTSTAMP:20261017T135943Z
 DTSTART;VALUE=DATE:20270309
 DTEND;VALUE=DATE:20270310
 SUMMARY:Holiday
@@ -978,7 +967,7 @@ URL:https://jmhsband.org/index.php/calendar/holiday-11
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6799@jmhsband.org
-DTSTAMP:20261016T150439Z
+DTSTAMP:20261017T135943Z
 DTSTART;TZID=America/New_York:20270310T153000
 DTEND;TZID=America/New_York:20270310T170000
 SUMMARY:Symphonic Band
@@ -988,7 +977,7 @@ URL:https://jmhsband.org/index.php/calendar/symphonic-band-89
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6785@jmhsband.org
-DTSTAMP:20261016T150439Z
+DTSTAMP:20261017T135943Z
 DTSTART;TZID=America/New_York:20270310T180000
 DTEND;TZID=America/New_York:20270310T203000
 SUMMARY:Wind Symphony
@@ -998,7 +987,7 @@ URL:https://jmhsband.org/index.php/calendar/wind-symphony-126
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6804@jmhsband.org
-DTSTAMP:20261016T150439Z
+DTSTAMP:20261017T135943Z
 DTSTART;TZID=America/New_York:20270311T153000
 DTEND;TZID=America/New_York:20270311T170000
 SUMMARY:Symphonic Band
@@ -1008,7 +997,7 @@ URL:https://jmhsband.org/index.php/calendar/symphonic-band-94
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6747@jmhsband.org
-DTSTAMP:20261016T150439Z
+DTSTAMP:20261017T135943Z
 DTSTART;VALUE=DATE:20270312
 DTEND;VALUE=DATE:20270314
 SUMMARY:Assessment
@@ -1018,17 +1007,17 @@ URL:https://jmhsband.org/index.php/calendar/assessment
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6805@jmhsband.org
-DTSTAMP:20261016T150439Z
-DTSTART;TZID=America/New_York:20270318T190000
-DTEND;TZID=America/New_York:20270318T200000
+DTSTAMP:20261017T135943Z
+DTSTART;TZID=America/New_York:20270317T190000
+DTEND;TZID=America/New_York:20270317T200000
 SUMMARY:Jazz Night
 CATEGORIES:Performance
-DESCRIPTION:3-18-2027 7:00pm [Performance] Jazz Night
+DESCRIPTION:3-17-2027 7:00pm [Performance] Jazz Night
 URL:https://jmhsband.org/index.php/calendar/jazz-night-9
 END:VEVENT
 BEGIN:VEVENT
 UID:jmhs-band-6727@jmhsband.org
-DTSTAMP:20261016T150439Z
+DTSTAMP:20261017T135943Z
 DTSTART;VALUE=DATE:20270322
 DTEND;VALUE=DATE:20270327
 SUMMARY:Spring Break
